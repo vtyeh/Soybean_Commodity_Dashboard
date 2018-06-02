@@ -1,0 +1,2435 @@
+Importer M49,Importer ISO3,Importer,Importer region,Resource,Year,value,weight,percent,loads
+4,AFG,Afghanistan,South Asia,Soybeans,2007,"$1,002,422 ",0,0,0
+8,ALB,Albania,Europe,Soybeans,2007,"$537,808 ",0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2007,"$45,635,384 ",0,0,32%
+20,AND,Andorra,Europe,Soybeans,2007,$14 ,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2007,"$10,175,409 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2007,"$73,293 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2007,"$1,577,186 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2007,"$54,161,090 ",0,0,67%
+36,AUS,Australia,Oceania,Soybeans,2007,"$23,385,105 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2007,"$22,465,469 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2007,"$146,951 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2007,"$149,254 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2007,"$62,255,480 ",0,0,0
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2007,"$464,545 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2007,"$969,485 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2007,"$100,764,905 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2007,"$3,717 ",0,0,0
+64,BTN,Bhutan,South Asia,Soybeans,2007,"$201,693 ",0,0,0
+68,BOL,Bolivia,South America,Soybeans,2007,"$5,679,139 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2007,"$3,597,009 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2007,"$161,240 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2007,"$9,879,615 ",0,0,-18%
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2007,"$313,100 ",0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2007,"$61,336 ",0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2007,"$10,375 ",0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2007,"$24,457 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2007,"$6,892,112 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2007,"$476,947 ",0,0,0
+108,BDI,Burundi,Sub-Saharan Africa,Soybeans,2007,$517 ,0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2007,"$8,418,488 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2007,"$94,313 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2007,"$1,431,984 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2007,"$47,991,798 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2007,"$877,976 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2007,"$2,518,156 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2007,"$30,744 ",0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2007,"$4,521,825 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2007,"$1,103 ",0,0,0
+152,CHL,Chile,South America,Soybeans,2007,"$26,217,164 ",0,0,0
+156,CHN,China,China,Soybeans,2007,"$1,295,334,988 ",33991023.82,58%,36%
+170,COL,Colombia,South America,Soybeans,2007,"$48,589,154 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2007,"$11,585 ",0,0,0
+175,MYT,Mayotte,Sub-Saharan Africa,Soybeans,2007,"$144,792 ",0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2007,"$114,139 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2007,"$245,802 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2007,"$6,291 ",0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2007,"$10,580,128 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2007,"$6,247,572 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2007,"$16,371,620 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2007,"$5,094,861 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2007,"$22,803,062 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2007,"$37,520 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2007,"$59,307,695 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2007,"$76,946 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2007,"$29,725,674 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2007,"$22,638,383 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2007,"$6,428,863 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2007,"$339,235 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2007,"$1,189,290 ",0,0,0
+232,ERI,Eritrea,Sub-Saharan Africa,Soybeans,2007,"$128,033 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2007,"$2,181,846 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2007,"$229,492 ",0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2007,"$1,110,278 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2007,"$5,420,758 ",0,0,0
+251,FRA,France,Europe,Soybeans,2007,"$158,268,351 ",0,0,0
+258,PYF,French Polynesia,Oceania,Soybeans,2007,"$139,045 ",0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2007,"$259,527 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2007,"$387,269 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2007,"$1,125,937 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2007,"$217,940 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2007,"$505,404 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2007,"$242,218,873 ",7305577.998,11%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2007,"$613,001 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2007,"$20,503 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2007,"$3,664 ",0,0,0
+300,GRC,Greece,Europe,Soybeans,2007,"$26,209,667 ",0,0,0
+304,GRL,Greenland,North America,Soybeans,2007,"$2,331 ",0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2007,"$181,956 ",0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2007,"$15,408,139 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2007,"$847,541 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2007,"$788,690 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2007,"$3,829,326 ",0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2007,"$4,431,047 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2007,"$7,550,374 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2007,"$24,925,425 ",0,0,0
+352,ISL,Iceland,Europe,Soybeans,2007,"$915,484 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2007,"$116,877,392 ",0,0,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2007,"$95,296,041 ",0,0,0
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2007,"$713,632 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2007,"$18,704,130 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2007,"$26,496,416 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2007,"$140,014,241 ",0,0,0
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2007,"$395,564 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2007,"$4,007,711 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2007,"$215,266,243 ",5951925.744,10%,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2007,"$1,273,429 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2007,"$8,763,335 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2007,"$2,133,975 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2007,"$4,884,716 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2007,"$116,269,023 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2007,"$2,369,576 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2007,"$66,942 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2007,"$7,291 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2007,"$7,983,101 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2007,"$5,286,939 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2007,"$405,299 ",0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2007,"$5,578,066 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2007,"$5,888,862 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2007,"$800,398 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2007,"$322,298 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2007,"$3,232,684 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2007,"$1,997,232 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2007,"$59,725,680 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2007,"$16,021 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2007,"$117,569 ",0,0,0
+470,MLT,Malta,Europe,Soybeans,2007,"$1,114,879 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2007,"$2,223,728 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2007,"$2,525,500 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2007,"$174,019,650 ",0,0,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2007,"$85,556,337 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2007,"$427,021 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2007,"$1,098,197 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2007,"$119,834 ",0,0,0
+500,MSR,Montserrat,Caribbean and Central America,Soybeans,2007,"$1,820 ",0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2007,"$53,037,200 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2007,"$1,932,094 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2007,"$2,672,438 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2007,"$120,729 ",0,0,0
+520,NRU,Nauru,Oceania,Soybeans,2007,$12 ,0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2007,"$686,977 ",0,0,0
+527,,"Oceania, nes",Oceania,Soybeans,2007,$168 ,0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2007,"$267,705,018 ",1552,12%,0
+530,ANT,Netherlands Antilles,Caribbean and Central America,Soybeans,2007,"$134,133 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2007,"$29,106 ",0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2007,"$269,363 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2007,"$9,217 ",0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2007,"$6,346,016 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2007,"$4,729,112 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2007,"$272,840 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2007,"$1,288,737 ",0,0,0
+568,,"Other Europe, nes",Europe,Soybeans,2007,$0 ,0,0,0
+570,NIU,Niue,Oceania,Soybeans,2007,$654 ,0,0,0
+574,NFK,Norfolk Isds,Oceania,Soybeans,2007,$157 ,0,0,0
+577,,"Other Africa, nes",Sub-Saharan Africa,Soybeans,2007,"$583,076 ",0,0,0
+579,NOR,Norway,Europe,Soybeans,2007,"$19,656,693 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2007,"$10,128 ",0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2007,"$14,222 ",0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2007,"$56,633 ",0,0,0
+585,PLW,Palau,Oceania,Soybeans,2007,"$5,555 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2007,"$15,535,468 ",0,0,0
+591,PAN,Panama,Caribbean and Central America,Soybeans,2007,"$6,763,931 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2007,"$475,705 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2007,"$1,155,149 ",0,0,0
+604,PER,Peru,South America,Soybeans,2007,"$47,576,386 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2007,"$48,225,250 ",0,0,0
+616,POL,Poland,Europe,Soybeans,2007,"$63,250,019 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2007,"$48,692,421 ",0,0,0
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2007,"$106,149 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2007,"$237,872 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2007,"$11,728,164 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2007,"$36,115,524 ",0,0,0
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2007,"$72,900 ",0,0,0
+654,SHN,Saint Helena,Sub-Saharan Africa,Soybeans,2007,"$1,810 ",0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2007,"$25,307 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2007,$320 ,0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2007,"$64,819 ",0,0,0
+666,SPM,Saint Pierre and Miquelon,North America,Soybeans,2007,$0 ,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2007,"$197,852 ",0,0,0
+674,SMR,San Marino,Europe,Soybeans,2007,"$47,902 ",0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2007,"$229,122 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2007,"$25,249,031 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2007,"$9,359,683 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2007,"$1,509,388 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2007,"$49,812 ",0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2007,"$43,998 ",0,0,0
+699,IND,India,South Asia,Soybeans,2007,"$82,298,323 ",0,0,0
+702,SGP,Singapore,Southeast Asia,Soybeans,2007,"$5,317,840 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2007,"$7,781,788 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2007,"$75,593,558 ",0,0,32%
+705,SVN,Slovenia,Europe,Soybeans,2007,"$18,363,384 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2007,"$137,588 ",0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2007,"$45,861,948 ",0,0,26%
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2007,"$391,161 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2007,"$202,558,884 ",6920198.975,9%,0
+736,SDN,Fmr Sudan,Sub-Saharan Africa,Soybeans,2007,"$754,338 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2007,"$1,133,552 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2007,"$201,817 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2007,"$15,168,928 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2007,"$11,845,962 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2007,"$18,514,484 ",0,0,0
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2007,"$393,903 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2007,"$112,958,737 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2007,"$46,178 ",0,0,0
+776,TON,Tonga,Oceania,Soybeans,2007,"$9,410 ",0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2007,"$2,376,912 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2007,"$19,965,556 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2007,"$19,965,873 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2007,"$49,694,695 ",0,0,0
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2007,"$29,448 ",0,0,0
+796,TCA,Turks and Caicos Isds,Caribbean and Central America,Soybeans,2007,$301 ,0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2007,$374 ,0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2007,"$573,389 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2007,"$6,121,680 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2007,"$1,364,395 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2007,"$56,473,913 ",0,0,0
+826,GBR,United Kingdom,Europe,Soybeans,2007,"$109,302,616 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2007,"$1,396,022 ",0,0,0
+837,,Bunkers,Other,Soybeans,2007,"$8,775 ",0,0,0
+838,,Free Zones,Other,Soybeans,2007,"$17,489,577 ",0,0,0
+842,USA,USA,North America,Soybeans,2007,"$16,072,865 ",0,0,0
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2007,"$168,217 ",0,0,0
+858,URY,Uruguay,South America,Soybeans,2007,"$7,169,389 ",0,0,-13%
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2007,"$840,551 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2007,"$50,399,951 ",0,0,0
+876,WLF,Wallis and Futuna Isds,Oceania,Soybeans,2007,"$12,902,399 ",0,0,0
+882,WSM,Samoa,Oceania,Soybeans,2007,"$4,912 ",0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2007,"$4,003,616 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2007,"$1,400,329 ",0,0,0
+899,,All Countries,Other,Soybeans,2007,"$5,231,688,673 ",0,0,0
+4,AFG,Afghanistan,South Asia,Soybeans,2008,"$1,184,856 ",0,0,0
+8,ALB,Albania,Europe,Soybeans,2008,"$969,652 ",0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2008,"$70,232,637 ",0,0,35%
+20,AND,Andorra,Europe,Soybeans,2008,$6 ,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2008,"$13,201,340 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2008,"$113,170 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2008,"$3,007,341 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2008,"$117,072,359 ",0,0,78%
+36,AUS,Australia,Oceania,Soybeans,2008,"$34,404,854 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2008,"$27,543,476 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2008,"$200,383 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2008,"$848,730 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2008,"$49,810,196 ",0,0,0
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2008,"$692,385 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2008,"$1,868,591 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2008,"$115,697,755 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2008,"$10,280 ",0,0,0
+64,BTN,Bhutan,South Asia,Soybeans,2008,"$658,939 ",0,0,0
+68,BOL,Bolivia,South America,Soybeans,2008,"$2,536,826 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2008,"$5,040,453 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2008,"$207,177 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2008,"$10,008,920 ",0,0,-20%
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2008,"$427,199 ",0,0,0
+86,IOT,British Indian Ocean Territory,Oceania,Soybeans,2008,$0 ,0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2008,"$30,953 ",0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2008,"$5,171 ",0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2008,"$34,277 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2008,"$8,596,662 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2008,"$411,688 ",0,0,0
+108,BDI,Burundi,Sub-Saharan Africa,Soybeans,2008,"$68,519 ",0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2008,"$15,605,306 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2008,"$107,369 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2008,"$1,683,050 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2008,"$72,941,011 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2008,"$1,493,426 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2008,"$2,479,976 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2008,"$61,716 ",0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2008,"$6,232,299 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2008,"$52,981 ",0,0,0
+152,CHL,Chile,South America,Soybeans,2008,"$33,718,114 ",0,0,0
+156,CHN,China,China,Soybeans,2008,"$2,338,024,653 ",40570487.29,63%,0
+170,COL,Colombia,South America,Soybeans,2008,"$71,448,629 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2008,"$96,636 ",0,0,0
+175,MYT,Mayotte,Sub-Saharan Africa,Soybeans,2008,"$193,404 ",0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2008,"$172,396 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2008,"$291,840 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2008,"$7,304 ",0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2008,"$12,949,800 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2008,"$10,616,385 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2008,"$26,742,233 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2008,"$9,062,369 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2008,"$32,396,773 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2008,"$91,878 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2008,"$76,061,416 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2008,"$102,047 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2008,"$36,282,203 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2008,"$36,107,062 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2008,"$9,146,919 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2008,"$452,324 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2008,"$1,244,296 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2008,"$3,510,972 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2008,"$136,582 ",0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2008,"$2,305,337 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2008,"$11,394,672 ",0,0,0
+251,FRA,France,Europe,Soybeans,2008,"$277,588,585 ",0,0,0
+258,PYF,French Polynesia,Oceania,Soybeans,2008,"$251,069 ",0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2008,"$180,747 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2008,"$264,508 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2008,"$2,530,488 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2008,"$395,491 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2008,"$1,359,525 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2008,"$367,485,605 ",7747404.469,10%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2008,"$1,698,074 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2008,"$7,848 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2008,"$22,633 ",0,0,0
+300,GRC,Greece,Europe,Soybeans,2008,"$41,794,951 ",0,0,0
+304,GRL,Greenland,North America,Soybeans,2008,"$3,679 ",0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2008,"$459,729 ",0,0,0
+316,GUM,Guam,Oceania,Soybeans,2008,$535 ,0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2008,"$24,011,378 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2008,"$307,367 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2008,"$1,174,733 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2008,"$3,023,961 ",0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2008,"$7,911,665 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2008,"$10,663,660 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2008,"$53,132,919 ",0,0,0
+352,ISL,Iceland,Europe,Soybeans,2008,"$1,228,989 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2008,"$173,048,445 ",0,0,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2008,"$93,779,006 ",0,0,0
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2008,"$818,701 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2008,"$21,455,135 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2008,"$33,229,834 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2008,"$204,462,500 ",0,0,0
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2008,"$729,328 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2008,"$5,739,073 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2008,"$308,722,035 ",5487558.286,8%,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2008,"$294,338 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2008,"$14,839,802 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2008,"$2,689,388 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2008,"$7,879,520 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2008,"$183,319,929 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2008,"$4,496,341 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2008,"$54,072 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2008,"$27,235 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2008,"$11,136,931 ",0,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,Soybeans,2008,"$50,560 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2008,"$11,040,931 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2008,"$10,438 ",0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2008,"$18,236,749 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2008,"$11,761,037 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2008,"$1,246,022 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2008,"$458,104 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2008,"$5,617,154 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2008,"$2,202,248 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2008,"$83,190,793 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2008,"$92,589 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2008,"$150,087 ",0,0,0
+470,MLT,Malta,Europe,Soybeans,2008,"$1,799,147 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2008,"$5,078,592 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2008,"$4,760,883 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2008,"$262,529,117 ",0,0,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2008,"$120,236,156 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2008,"$431,655 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2008,"$418,037 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2008,"$185,591 ",0,0,0
+500,MSR,Montserrat,Caribbean and Central America,Soybeans,2008,"$4,180 ",0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2008,"$71,442,188 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2008,"$3,155,477 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2008,"$3,293,571 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2008,"$112,743 ",0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2008,"$1,785,875 ",0,0,0
+527,,"Oceania, nes",Oceania,Soybeans,2008,$135 ,0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2008,"$397,866,777 ",8964247.135,11%,0
+530,ANT,Netherlands Antilles,Caribbean and Central America,Soybeans,2008,"$228,985 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2008,"$46,820 ",0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2008,"$276,828 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2008,"$1,454 ",0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2008,"$9,165,004 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2008,"$5,359,745 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2008,"$122,059 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2008,"$1,593,478 ",0,0,0
+568,,"Other Europe, nes",Europe,Soybeans,2008,"$7,607,668 ",0,0,0
+570,NIU,Niue,Oceania,Soybeans,2008,$927 ,0,0,0
+574,NFK,Norfolk Isds,Oceania,Soybeans,2008,$626 ,0,0,0
+577,,"Other Africa, nes",Sub-Saharan Africa,Soybeans,2008,"$954,456 ",0,0,0
+579,NOR,Norway,Europe,Soybeans,2008,"$29,144,454 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2008,"$6,583 ",0,0,0
+581,UMI,United States Minor Outlying Isds,Oceania,Soybeans,2008,"$110,535 ",0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2008,"$28,412 ",0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2008,$494 ,0,0,0
+585,PLW,Palau,Oceania,Soybeans,2008,"$8,533 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2008,"$17,411,979 ",0,0,0
+591,PAN,Panama,Caribbean and Central America,Soybeans,2008,"$9,489,934 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2008,"$807,411 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2008,"$1,835,336 ",0,0,0
+604,PER,Peru,South America,Soybeans,2008,"$74,172,049 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2008,"$62,237,378 ",0,0,0
+616,POL,Poland,Europe,Soybeans,2008,"$95,957,006 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2008,"$71,186,879 ",0,0,0
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2008,"$194,278 ",0,0,0
+626,TLS,Timor-Leste,Southeast Asia,Soybeans,2008,"$23,661 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2008,"$421,470 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2008,"$22,769,350 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2008,"$74,565,532 ",0,0,35%
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2008,"$892,902 ",0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2008,"$47,601 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2008,$363 ,0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2008,"$118,254 ",0,0,0
+666,SPM,Saint Pierre and Miquelon,North America,Soybeans,2008,$0 ,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2008,"$236,575 ",0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2008,"$343,871 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2008,"$41,140,716 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2008,"$12,050,940 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2008,"$3,148,956 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2008,"$224,010 ",0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2008,"$78,224 ",0,0,0
+699,IND,India,South Asia,Soybeans,2008,"$71,238,083 ",0,0,0
+702,SGP,Singapore,Southeast Asia,Soybeans,2008,"$9,713,954 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2008,"$11,011,836 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2008,"$120,631,191 ",0,0,33%
+705,SVN,Slovenia,Europe,Soybeans,2008,"$23,201,514 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2008,"$238,866 ",0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2008,"$58,920,853 ",0,0,0
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2008,"$640,132 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2008,"$318,599,759 ",7003544.643,9%,0
+732,ESH,Western Sahara,Middle East and North Africa,Soybeans,2008,$0 ,0,0,0
+736,SDN,Fmr Sudan,Sub-Saharan Africa,Soybeans,2008,"$1,190,670 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2008,"$1,969,140 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2008,"$12,419 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2008,"$23,572,779 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2008,"$17,734,341 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2008,"$27,688,784 ",0,0,0
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2008,"$620,919 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2008,"$185,443,687 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2008,"$51,393 ",0,0,0
+776,TON,Tonga,Oceania,Soybeans,2008,"$9,268 ",0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2008,"$5,567,449 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2008,"$23,584,945 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2008,"$43,764,166 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2008,"$76,135,478 ",0,0,0
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2008,"$32,028 ",0,0,0
+796,TCA,Turks and Caicos Isds,Caribbean and Central America,Soybeans,2008,$457 ,0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2008,$0 ,0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2008,"$344,347 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2008,"$6,806,353 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2008,"$2,191,671 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2008,"$110,058,337 ",0,0,0
+826,GBR,United Kingdom,Europe,Soybeans,2008,"$161,610,820 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2008,"$2,039,479 ",0,0,0
+837,,Bunkers,Other,Soybeans,2008,"$4,847 ",0,0,0
+838,,Free Zones,Other,Soybeans,2008,"$26,388,578 ",0,0,0
+842,USA,USA,North America,Soybeans,2008,"$27,812,586 ",0,0,0
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2008,"$105,867 ",0,0,0
+858,URY,Uruguay,South America,Soybeans,2008,"$13,336,589 ",0,0,-13%
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2008,"$571,623 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2008,"$111,314,774 ",0,0,31%
+876,WLF,Wallis and Futuna Isds,Oceania,Soybeans,2008,"$9,350,344 ",0,0,0
+882,WSM,Samoa,Oceania,Soybeans,2008,"$39,181 ",0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2008,"$4,574,629 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2008,"$2,534,705 ",0,0,0
+899,,All Countries,Other,Soybeans,2008,"$8,192,145,337 ",0,0,0
+4,AFG,Afghanistan,South Asia,Soybeans,2009,"$757,943 ",0,0,0
+8,ALB,Albania,Europe,Soybeans,2009,"$907,910 ",0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2009,"$60,493,891 ",0,0,0
+16,ASM,American Samoa,Oceania,Soybeans,2009,$707 ,0,0,0
+20,AND,Andorra,Europe,Soybeans,2009,$33 ,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2009,"$11,116,613 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2009,"$102,530 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2009,"$1,756,113 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2009,"$22,783,520 ",0,0,0
+36,AUS,Australia,Oceania,Soybeans,2009,"$25,557,348 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2009,"$23,993,539 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2009,"$554,778 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2009,"$262,234 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2009,"$53,330,656 ",0,0,0
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2009,"$841,387 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2009,"$1,141,005 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2009,"$87,638,680 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2009,"$9,812 ",0,0,0
+64,BTN,Bhutan,South Asia,Soybeans,2009,"$537,752 ",0,0,0
+68,BOL,Bolivia,South America,Soybeans,2009,"$1,051,141 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2009,"$4,586,914 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2009,"$320,671 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2009,"$8,306,501 ",0,0,0
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2009,"$384,908 ",0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2009,"$12,851 ",0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2009,"$5,341 ",0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2009,"$108,015 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2009,"$7,284,976 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2009,"$406,378 ",0,0,0
+108,BDI,Burundi,Sub-Saharan Africa,Soybeans,2009,"$30,161 ",0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2009,"$12,983,202 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2009,"$404,748 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2009,"$1,693,315 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2009,"$63,627,513 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2009,"$777,171 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2009,"$238,075 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2009,"$218,398 ",0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2009,"$5,246,954 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2009,"$113,295 ",0,0,0
+152,CHL,Chile,South America,Soybeans,2009,"$19,254,423 ",0,0,0
+156,CHN,China,China,Soybeans,2009,"$1,987,377,711 ",45131692.59,64%,21%
+170,COL,Colombia,South America,Soybeans,2009,"$62,816,204 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2009,"$17,141 ",0,0,0
+175,MYT,Mayotte,Sub-Saharan Africa,Soybeans,2009,"$117,037 ",0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2009,"$162,703 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2009,"$375,472 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2009,"$3,256 ",0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2009,"$12,083,130 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2009,"$7,495,888 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2009,"$21,502,799 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2009,"$6,037,663 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2009,"$24,839,216 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2009,"$19,266 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2009,"$72,016,717 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2009,"$49,674 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2009,"$40,046,694 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2009,"$32,627,287 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2009,"$7,574,284 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2009,"$386,581 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2009,"$943,284 ",0,0,0
+232,ERI,Eritrea,Sub-Saharan Africa,Soybeans,2009,"$147,787 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2009,"$2,259,873 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2009,"$201,185 ",0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2009,"$927,136 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2009,"$8,454,908 ",0,0,0
+251,FRA,France,Europe,Soybeans,2009,"$189,953,422 ",0,0,0
+258,PYF,French Polynesia,Oceania,Soybeans,2009,"$228,960 ",0,0,0
+260,ATF,French Southern Territories,Other,Soybeans,2009,$0 ,0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2009,"$36,341 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2009,"$227,107 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2009,"$944,712 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2009,"$9,291 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2009,"$1,015,291 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2009,"$309,082,135 ",7072943.806,10%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2009,"$610,383 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2009,"$888,154 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2009,"$6,332 ",0,0,0
+300,GRC,Greece,Europe,Soybeans,2009,"$30,685,860 ",0,0,0
+304,GRL,Greenland,North America,Soybeans,2009,"$2,990 ",0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2009,"$174,670 ",0,0,0
+316,GUM,Guam,Oceania,Soybeans,2009,$17 ,0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2009,"$17,397,076 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2009,"$25,309 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2009,"$1,475,133 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2009,"$4,726,833 ",0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2009,"$6,672,150 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2009,"$8,130,600 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2009,"$29,769,858 ",0,0,0
+352,ISL,Iceland,Europe,Soybeans,2009,"$1,029,465 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2009,"$168,828,986 ",0,0,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2009,"$92,865,811 ",0,0,-4.10%
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2009,"$1,729,550 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2009,"$24,236,089 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2009,"$26,582,742 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2009,"$164,759,441 ",0,0,0
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2009,"$766,615 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2009,"$5,582,594 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2009,"$257,343,494 ",5370377.842,8%,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2009,"$497,699 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2009,"$10,818,060 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2009,"$1,991,363 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2009,"$5,249,936 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2009,"$149,996,636 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2009,"$2,608,412 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2009,"$101,941 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2009,"$1,934 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2009,"$7,574,663 ",0,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,Soybeans,2009,"$2,775,421 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2009,"$9,665,004 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2009,"$310,647 ",0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2009,"$10,354,538 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2009,"$21,923,133 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2009,"$1,015,943 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2009,"$615,597 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2009,"$2,593,261 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2009,"$1,560,975 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2009,"$75,223,057 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2009,"$24,661 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2009,"$4,403 ",0,0,0
+470,MLT,Malta,Europe,Soybeans,2009,"$1,465,663 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2009,"$3,487,878 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2009,"$3,786,714 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2009,"$208,239,741 ",0,0,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2009,"$101,107,882 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2009,"$60,452 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2009,"$1,180,654 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2009,"$165,036 ",0,0,0
+500,MSR,Montserrat,Caribbean and Central America,Soybeans,2009,"$3,764 ",0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2009,"$52,811,395 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2009,"$1,969,707 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2009,"$4,410,069 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2009,"$145,172 ",0,0,0
+520,NRU,Nauru,Oceania,Soybeans,2009,$51 ,0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2009,"$10,753,284 ",0,0,0
+527,,"Oceania, nes",Oceania,Soybeans,2009,$90 ,0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2009,"$301,308,017 ",6083197.179,10%,0
+530,ANT,Netherlands Antilles,Caribbean and Central America,Soybeans,2009,"$119,287 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2009,"$56,087 ",0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2009,"$136,152 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2009,"$8,876 ",0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2009,"$6,101,511 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2009,"$4,549,958 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2009,"$28,738 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2009,"$693,863 ",0,0,0
+568,,"Other Europe, nes",Europe,Soybeans,2009,$12 ,0,0,0
+570,NIU,Niue,Oceania,Soybeans,2009,$703 ,0,0,0
+574,NFK,Norfolk Isds,Oceania,Soybeans,2009,$0 ,0,0,0
+577,,"Other Africa, nes",Sub-Saharan Africa,Soybeans,2009,"$259,158 ",0,0,0
+579,NOR,Norway,Europe,Soybeans,2009,"$24,189,295 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2009,"$1,703 ",0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2009,"$20,836 ",0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2009,"$1,056 ",0,0,0
+585,PLW,Palau,Oceania,Soybeans,2009,"$9,460 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2009,"$15,347,178 ",0,0,0
+591,PAN,Panama,Caribbean and Central America,Soybeans,2009,"$7,802,594 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2009,"$659,813 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2009,"$1,782,728 ",0,0,0
+604,PER,Peru,South America,Soybeans,2009,"$62,743,036 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2009,"$57,028,457 ",0,0,0
+616,POL,Poland,Europe,Soybeans,2009,"$78,764,383 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2009,"$49,083,498 ",0,0,0
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2009,"$27,827 ",0,0,0
+626,TLS,Timor-Leste,Southeast Asia,Soybeans,2009,"$14,714 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2009,"$79,749 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2009,"$21,604,810 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2009,"$63,661,369 ",0,0,32%
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2009,"$297,874 ",0,0,0
+654,SHN,Saint Helena,Sub-Saharan Africa,Soybeans,2009,"$2,636 ",0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2009,"$36,240 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2009,$944 ,0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2009,"$143,165 ",0,0,0
+666,SPM,Saint Pierre and Miquelon,North America,Soybeans,2009,$2 ,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2009,"$218,538 ",0,0,0
+674,SMR,San Marino,Europe,Soybeans,2009,$0 ,0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2009,"$311,629 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2009,"$39,564,487 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2009,"$7,372,568 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2009,"$3,612,823 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2009,"$35,405 ",0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2009,"$1,967 ",0,0,0
+699,IND,India,South Asia,Soybeans,2009,"$75,023,148 ",0,0,0
+702,SGP,Singapore,Southeast Asia,Soybeans,2009,"$6,683,200 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2009,"$5,171,609 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2009,"$119,949,694 ",0,0,30%
+705,SVN,Slovenia,Europe,Soybeans,2009,"$17,833,773 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2009,"$3,004 ",0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2009,"$40,511,295 ",0,0,0
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2009,"$753,774 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2009,"$238,713,927 ",5811166.177,8%,0
+736,SDN,Fmr Sudan,Sub-Saharan Africa,Soybeans,2009,"$948,761 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2009,"$1,575,907 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2009,"$18,202 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2009,"$16,513,188 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2009,"$16,527,926 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2009,"$52,675,652 ",0,0,22%
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2009,"$427,588 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2009,"$153,697,971 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2009,"$78,281 ",0,0,0
+776,TON,Tonga,Oceania,Soybeans,2009,"$19,008 ",0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2009,"$3,153,619 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2009,"$21,419,936 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2009,"$31,543,948 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2009,"$61,452,695 ",0,0,0
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2009,"$52,129 ",0,0,0
+796,TCA,Turks and Caicos Isds,Caribbean and Central America,Soybeans,2009,$448 ,0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2009,"$177,941,647 ",0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2009,"$213,870 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2009,"$4,305,128 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2009,"$1,885,887 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2009,"$89,711,884 ",0,0,0
+826,GBR,United Kingdom,Europe,Soybeans,2009,"$128,172,148 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2009,"$964,567 ",0,0,0
+837,,Bunkers,Other,Soybeans,2009,"$15,579 ",0,0,0
+838,,Free Zones,Other,Soybeans,2009,"$39,422,314 ",0,0,45%
+842,USA,USA,North America,Soybeans,2009,"$29,830,244 ",0,0,0
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2009,"$8,161 ",0,0,0
+858,URY,Uruguay,South America,Soybeans,2009,"$6,835,219 ",0,0,-29%
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2009,"$572,703 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2009,"$74,557,078 ",0,0,0
+882,WSM,Samoa,Oceania,Soybeans,2009,"$5,333 ",0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2009,"$5,272,788 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2009,"$670,540 ",0,0,0
+899,,All Countries,Other,Soybeans,2009,"$6,920,423,458 ",0,0,0
+4,AFG,Afghanistan,South Asia,Soybeans,2010,"$1,831,854 ",0,0,0
+8,ALB,Albania,Europe,Soybeans,2010,"$920,841 ",0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2010,"$74,919,507 ",0,0,0
+16,ASM,American Samoa,Oceania,Soybeans,2010,$367 ,0,0,0
+20,AND,Andorra,Europe,Soybeans,2010,$400 ,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2010,"$8,987,364 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2010,"$73,930 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2010,"$1,855,984 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2010,"$983,995 ",0,0,0
+36,AUS,Australia,Oceania,Soybeans,2010,"$24,058,205 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2010,"$24,612,360 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2010,"$276,836 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2010,"$744,415 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2010,"$63,090,054 ",0,0,28%
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2010,"$1,301,412 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2010,"$989,518 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2010,"$81,488,144 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2010,"$5,692 ",0,0,0
+64,BTN,Bhutan,South Asia,Soybeans,2010,"$788,376 ",0,0,0
+68,BOL,Bolivia,South America,Soybeans,2010,"$710,641 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2010,"$5,912,478 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2010,"$271,505 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2010,"$7,410,289 ",0,0,0
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2010,"$453,047 ",0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2010,$94 ,0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2010,"$8,979 ",0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2010,"$117,067 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2010,"$6,445,820 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2010,"$948,268 ",0,0,0
+108,BDI,Burundi,Sub-Saharan Africa,Soybeans,2010,"$55,331 ",0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2010,"$15,738,263 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2010,"$938,876 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2010,"$1,244,094 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2010,"$51,285,243 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2010,"$995,636 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2010,"$36,877 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2010,"$183,771 ",0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2010,"$5,356,694 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2010,"$33,353 ",0,0,0
+152,CHL,Chile,South America,Soybeans,2010,"$18,859,624 ",0,0,-2%
+156,CHN,China,China,Soybeans,2010,"$2,538,587,776 ",56901904.43,69%,26%
+170,COL,Colombia,South America,Soybeans,2010,"$71,441,502 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2010,"$14,479 ",0,0,0
+175,MYT,Mayotte,Sub-Saharan Africa,Soybeans,2010,"$26,203 ",0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2010,"$160,619 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2010,"$470,125 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2010,"$4,344 ",0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2010,"$12,550,180 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2010,"$7,497,625 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2010,"$23,674,191 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2010,"$7,483,205 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2010,"$21,587,695 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2010,"$77,603 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2010,"$73,821,704 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2010,"$17,362 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2010,"$28,167,007 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2010,"$36,676,137 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2010,"$8,484,653 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2010,"$324,911 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2010,"$372,170 ",0,0,0
+232,ERI,Eritrea,Sub-Saharan Africa,Soybeans,2010,"$100,837 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2010,"$2,144,427 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2010,"$3,632 ",0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2010,"$1,079,489 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2010,"$8,288,708 ",0,0,0
+251,FRA,France,Europe,Soybeans,2010,"$198,785,781 ",0,0,0
+258,PYF,French Polynesia,Oceania,Soybeans,2010,"$213,283 ",0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2010,"$112,717 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2010,"$225,515 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2010,"$1,436,961 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2010,"$96,815 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2010,"$1,184,402 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2010,"$283,173,922 ",6859004.743,8%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2010,"$575,362 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2010,"$41,589 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2010,"$16,693 ",0,0,0
+300,GRC,Greece,Europe,Soybeans,2010,"$29,049,258 ",0,0,0
+304,GRL,Greenland,North America,Soybeans,2010,"$4,422 ",0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2010,"$318,776 ",0,0,0
+316,GUM,Guam,Oceania,Soybeans,2010,$21 ,0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2010,"$20,114,929 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2010,"$73,969 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2010,"$1,113,491 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2010,"$5,847,373 ",0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2010,"$6,947,135 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2010,"$8,670,622 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2010,"$31,674,225 ",0,0,0
+352,ISL,Iceland,Europe,Soybeans,2010,"$996,592 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2010,"$205,093,690 ",0,0,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2010,"$187,757,107 ",0,0,0
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2010,"$948,037 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2010,"$24,596,695 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2010,"$29,910,207 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2010,"$161,711,397 ",0,0,0
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2010,"$895,288 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2010,"$5,375,537 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2010,"$271,305,505 ",5647553.661,7%,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2010,"$595,507 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2010,"$13,140,044 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2010,"$1,519,023 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2010,"$6,710,827 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2010,"$150,004,006 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2010,"$4,784,498 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2010,"$414,292 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2010,"$33,920 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2010,"$7,407,308 ",0,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,Soybeans,2010,"$70,071 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2010,"$8,441,446 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2010,"$154,778 ",0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2010,"$24,140,969 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2010,"$10,232,995 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2010,"$981,876 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2010,"$397,574 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2010,"$2,624,291 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2010,"$2,402,919 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2010,"$82,347,426 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2010,"$47,420 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2010,"$90,058 ",0,0,0
+470,MLT,Malta,Europe,Soybeans,2010,"$1,089,588 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2010,"$2,867,837 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2010,"$3,210,726 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2010,"$227,431,905 ",0,0,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2010,"$110,586,421 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2010,"$78,494 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2010,"$1,366,937 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2010,"$111,600 ",0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2010,"$60,533,706 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2010,"$3,567,680 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2010,"$2,858,972 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2010,"$253,020 ",0,0,0
+520,NRU,Nauru,Oceania,Soybeans,2010,$593 ,0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2010,"$12,126,813 ",0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2010,"$343,878,265 ",8726401.575,9%,0
+530,ANT,Netherlands Antilles,Caribbean and Central America,Soybeans,2010,"$68,588 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2010,"$43,946 ",0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2010,"$170,555 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2010,"$2,581 ",0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2010,"$7,377,575 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2010,"$9,227,203 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2010,"$259,946 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2010,"$5,303,571 ",0,0,0
+570,NIU,Niue,Oceania,Soybeans,2010,"$1,391 ",0,0,0
+574,NFK,Norfolk Isds,Oceania,Soybeans,2010,$23 ,0,0,0
+577,,"Other Africa, nes",Sub-Saharan Africa,Soybeans,2010,"$17,107 ",0,0,0
+579,NOR,Norway,Europe,Soybeans,2010,"$24,852,244 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2010,"$2,897 ",0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2010,"$19,698 ",0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2010,"$1,477 ",0,0,0
+585,PLW,Palau,Oceania,Soybeans,2010,"$7,802 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2010,"$17,095,933 ",0,0,0
+591,PAN,Panama,Caribbean and Central America,Soybeans,2010,"$9,153,640 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2010,"$550,880 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2010,"$1,224,830 ",0,0,0
+604,PER,Peru,South America,Soybeans,2010,"$75,325,584 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2010,"$56,192,312 ",0,0,0
+616,POL,Poland,Europe,Soybeans,2010,"$83,944,424 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2010,"$60,080,750 ",0,0,0
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2010,"$298,899 ",0,0,0
+626,TLS,Timor-Leste,Southeast Asia,Soybeans,2010,"$18,654 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2010,"$379,170 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2010,"$24,997,307 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2010,"$69,382,101 ",0,0,30%
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2010,"$261,773 ",0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2010,"$41,303 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2010,$60 ,0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2010,"$69,937 ",0,0,0
+666,SPM,Saint Pierre and Miquelon,North America,Soybeans,2010,$16 ,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2010,"$233,737 ",0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2010,"$245,258 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2010,"$35,590,310 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2010,"$8,323,888 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2010,"$2,827,140 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2010,"$103,589 ",0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2010,"$5,518 ",0,0,0
+699,IND,India,South Asia,Soybeans,2010,"$124,982,024 ",0,0,0
+702,SGP,Singapore,Southeast Asia,Soybeans,2010,"$5,669,803 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2010,"$5,994,236 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2010,"$145,868,844 ",0,0,31%
+705,SVN,Slovenia,Europe,Soybeans,2010,"$20,807,080 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2010,"$117,654 ",0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2010,"$61,738,668 ",0,0,0
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2010,"$4,617,241 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2010,"$242,833,215 ",5823446.324,7%,0
+736,SDN,Fmr Sudan,Sub-Saharan Africa,Soybeans,2010,"$1,721,536 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2010,"$1,993,392 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2010,"$958,751 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2010,"$18,345,504 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2010,"$15,581,359 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2010,"$40,508,548 ",0,0,0
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2010,"$441,103 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2010,"$179,541,942 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2010,"$167,892 ",0,0,0
+776,TON,Tonga,Oceania,Soybeans,2010,"$28,256 ",0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2010,"$3,802,840 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2010,"$20,300,522 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2010,"$33,523,324 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2010,"$88,179,369 ",0,0,0
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2010,"$93,593 ",0,0,0
+796,TCA,Turks and Caicos Isds,Caribbean and Central America,Soybeans,2010,"$115,546 ",0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2010,"$2,910 ",0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2010,"$211,878 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2010,"$2,550,340 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2010,"$1,991,999 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2010,"$111,866,465 ",0,0,0
+826,GBR,United Kingdom,Europe,Soybeans,2010,"$142,015,160 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2010,"$2,136,256 ",0,0,0
+837,,Bunkers,Other,Soybeans,2010,"$24,688 ",0,0,0
+838,,Free Zones,Other,Soybeans,2010,"$45,645,030 ",0,0,45%
+842,USA,USA,North America,Soybeans,2010,"$35,615,155 ",0,0,0
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2010,"$237,104 ",0,0,0
+858,URY,Uruguay,South America,Soybeans,2010,"$4,844,954 ",0,0,-37%
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2010,"$1,593,084 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2010,"$89,839,057 ",0,0,0
+876,WLF,Wallis and Futuna Isds,Oceania,Soybeans,2010,"$21,810,199 ",0,0,0
+882,WSM,Samoa,Oceania,Soybeans,2010,"$7,234 ",0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2010,"$4,637,379 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2010,"$995,105 ",0,0,0
+899,,All Countries,Other,Soybeans,2010,"$7,789,422,758 ",0,0,0
+4,AFG,Afghanistan,South Asia,Soybeans,2011,"$1,185,752 ",0,0,0
+8,ALB,Albania,Europe,Soybeans,2011,"$841,909 ",0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2011,"$109,395,990 ",0,0,0
+20,AND,Andorra,Europe,Soybeans,2011,"$13,937,662 ",0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2011,"$17,660,107 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2011,"$88,596 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2011,"$1,905,205 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2011,"$1,667,928 ",0,0,0
+36,AUS,Australia,Oceania,Soybeans,2011,"$28,217,437 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2011,"$26,360,205 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2011,"$331,621 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2011,"$324,145 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2011,"$114,257,556 ",0,0,34%
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2011,"$1,066,873 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2011,"$1,387,553 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2011,"$99,061,956 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2011,"$51,885 ",0,0,0
+64,BTN,Bhutan,South Asia,Soybeans,2011,"$1,061,238 ",0,0,0
+68,BOL,Bolivia,South America,Soybeans,2011,"$1,858,459 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2011,"$4,435,820 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2011,"$749,742 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2011,"$3,237,877 ",0,0,0
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2011,"$501,119 ",0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2011,"$102,259 ",0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2011,"$408,280 ",0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2011,"$114,390 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2011,"$7,727,615 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2011,"$1,883,830 ",0,0,0
+108,BDI,Burundi,Sub-Saharan Africa,Soybeans,2011,"$11,524,807 ",0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2011,"$19,745,328 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2011,"$2,584,461 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2011,"$1,724,390 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2011,"$57,943,432 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2011,"$1,317,997 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2011,"$39,256 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2011,"$27,497 ",0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2011,"$7,102,866 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2011,"$76,524 ",0,0,0
+152,CHL,Chile,South America,Soybeans,2011,"$31,630,432 ",0,0,0
+156,CHN,China,China,Soybeans,2011,"$2,953,499,598 ",53545319.24,70%,0
+170,COL,Colombia,South America,Soybeans,2011,"$91,601,020 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2011,"$8,365 ",0,0,0
+175,MYT,Mayotte,Sub-Saharan Africa,Soybeans,2011,"$110,473 ",0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2011,"$344,307 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2011,"$368,758 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2011,"$5,037 ",0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2011,"$13,826,947 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2011,"$7,875,016 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2011,"$29,574,978 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2011,"$8,555,684 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2011,"$26,443,084 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2011,"$151,623 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2011,"$82,286,974 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2011,"$60,565 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2011,"$38,026,377 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2011,"$36,171,471 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2011,"$8,920,500 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2011,"$807,678 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2011,"$1,096,969 ",0,0,0
+232,ERI,Eritrea,Sub-Saharan Africa,Soybeans,2011,"$377,562 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2011,"$3,282,595 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2011,"$70,731 ",0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2011,"$1,404,939 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2011,"$12,985,094 ",0,0,0
+251,FRA,France,Europe,Soybeans,2011,"$225,539,374 ",0,0,0
+258,PYF,French Polynesia,Oceania,Soybeans,2011,"$593,610 ",0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2011,"$554,039 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2011,"$252,319 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2011,"$3,126,793 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2011,"$269,697 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2011,"$1,234,076 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2011,"$322,498,811 ",6713769.155,8%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2011,"$2,131,983 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2011,"$61,427 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2011,$822 ,0,0,0
+300,GRC,Greece,Europe,Soybeans,2011,"$27,902,608 ",0,0,0
+304,GRL,Greenland,North America,Soybeans,2011,"$4,301 ",0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2011,"$351,886 ",0,0,0
+316,GUM,Guam,Oceania,Soybeans,2011,$116 ,0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2011,"$22,244,074 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2011,"$134,440 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2011,"$2,064,529 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2011,"$3,729,838 ",0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2011,"$7,861,973 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2011,"$9,276,699 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2011,"$30,716,312 ",0,0,0
+352,ISL,Iceland,Europe,Soybeans,2011,"$1,296,961 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2011,"$242,217,478 ",0,0,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2011,"$271,189,418 ",0,0,0
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2011,"$725,511 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2011,"$26,103,123 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2011,"$41,148,454 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2011,"$184,692,132 ",0,0,0
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2011,"$1,135,280 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2011,"$5,777,361 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2011,"$280,449,561 ",5053415.917,7%,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2011,"$794,409 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2011,"$19,205,177 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2011,"$2,754,212 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2011,"$8,243,256 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2011,"$169,598,673 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2011,"$4,522,471 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2011,"$391,355 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2011,"$167,125 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2011,"$8,578,912 ",0,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,Soybeans,2011,"$171,343 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2011,"$10,268,232 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2011,"$233,251 ",0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2011,"$5,264,496 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2011,"$11,986,930 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2011,"$1,085,798 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2011,"$650,204 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2011,"$2,337,120 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2011,"$3,721,206 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2011,"$95,002,634 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2011,"$53,728 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2011,"$168,439 ",0,0,0
+470,MLT,Malta,Europe,Soybeans,2011,"$1,311,531 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2011,"$3,265,934 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2011,"$5,105,538 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2011,"$251,960,548 ",0,0,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2011,"$131,799,747 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2011,"$452,263 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2011,"$520,025 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2011,"$94,953 ",0,0,0
+500,MSR,Montserrat,Caribbean and Central America,Soybeans,2011,"$6,441 ",0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2011,"$79,004,865 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2011,"$9,848,393 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2011,"$3,984,629 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2011,"$252,795 ",0,0,0
+520,NRU,Nauru,Oceania,Soybeans,2011,$728 ,0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2011,"$16,011,356 ",0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2011,"$390,223,530 ",8493521.921,9%,0
+531,CUW,Curacao,Caribbean and Central America,Soybeans,2011,"$123,976 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2011,"$64,198 ",0,0,0
+534,SXM,Sint Maarten (Dutch part),Caribbean and Central America,Soybeans,2011,"$7,122 ",0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2011,"$287,610 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2011,"$2,466 ",0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2011,"$7,235,784 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2011,"$10,020,829 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2011,"$32,970 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2011,"$2,777,794 ",0,0,0
+570,NIU,Niue,Oceania,Soybeans,2011,$843 ,0,0,0
+579,NOR,Norway,Europe,Soybeans,2011,"$29,475,302 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2011,"$1,422 ",0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2011,"$16,827 ",0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2011,"$2,206 ",0,0,0
+585,PLW,Palau,Oceania,Soybeans,2011,"$10,997 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2011,"$25,061,527 ",0,0,0
+591,PAN,Panama,Caribbean and Central America,Soybeans,2011,"$11,711,554 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2011,"$1,423,320 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2011,"$2,150,771 ",0,0,0
+604,PER,Peru,South America,Soybeans,2011,"$85,464,934 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2011,"$71,515,425 ",0,0,0
+616,POL,Poland,Europe,Soybeans,2011,"$91,514,400 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2011,"$67,443,243 ",0,0,0
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2011,"$342,008 ",0,0,0
+626,TLS,Timor-Leste,Southeast Asia,Soybeans,2011,"$43,712 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2011,"$62,402 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2011,"$23,538,518 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2011,"$72,487,035 ",0,0,33%
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2011,"$339,681 ",0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2011,"$62,682 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2011,"$1,766 ",0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2011,"$128,939 ",0,0,0
+666,SPM,Saint Pierre and Miquelon,North America,Soybeans,2011,$1 ,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2011,"$282,337 ",0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2011,"$350,532 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2011,"$56,769,909 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2011,"$4,990,355 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2011,"$1,502,390 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2011,"$34,483 ",0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2011,"$11,133 ",0,0,0
+699,IND,India,South Asia,Soybeans,2011,"$121,653,506 ",0,0,0
+702,SGP,Singapore,Southeast Asia,Soybeans,2011,"$7,718,359 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2011,"$7,585,635 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2011,"$182,945,650 ",0,0,32%
+705,SVN,Slovenia,Europe,Soybeans,2011,"$29,970,006 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2011,"$1,280 ",0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2011,"$74,078,134 ",0,0,0
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2011,"$9,746,810 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2011,"$273,868,680 ",5575900.491,6%,0
+736,SDN,Fmr Sudan,Sub-Saharan Africa,Soybeans,2011,"$1,067,367 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2011,"$2,374,946 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2011,"$997,057 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2011,"$20,481,560 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2011,"$19,118,770 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2011,"$36,558,408 ",0,0,0
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2011,"$892,517 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2011,"$208,751,569 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2011,"$57,795 ",0,0,0
+776,TON,Tonga,Oceania,Soybeans,2011,"$60,082 ",0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2011,"$4,315,200 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2011,"$24,869,154 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2011,"$45,236,728 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2011,"$89,901,658 ",0,0,0
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2011,"$113,751 ",0,0,0
+796,TCA,Turks and Caicos Isds,Caribbean and Central America,Soybeans,2011,"$24,024 ",0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2011,"$4,552 ",0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2011,"$50,647 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2011,"$3,897,563 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2011,"$2,038,892 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2011,"$182,432,607 ",0,0,39%
+826,GBR,United Kingdom,Europe,Soybeans,2011,"$132,522,881 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2011,"$1,949,046 ",0,0,0
+837,,Bunkers,Other,Soybeans,2011,"$43,367 ",0,0,0
+838,,Free Zones,Other,Soybeans,2011,"$50,244,150 ",0,0,35%
+842,USA,USA,North America,Soybeans,2011,"$39,111,232 ",0,0,0
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2011,"$525,273 ",0,0,0
+858,URY,Uruguay,South America,Soybeans,2011,"$6,540,748 ",0,0,-27%
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2011,"$828,375 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2011,"$116,317,152 ",0,0,0
+876,WLF,Wallis and Futuna Isds,Oceania,Soybeans,2011,$57 ,0,0,0
+882,WSM,Samoa,Oceania,Soybeans,2011,"$18,737 ",0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2011,"$9,744,017 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2011,"$1,966,805 ",0,0,0
+899,,All Countries,Other,Soybeans,2011,"$9,123,641,746 ",0,0,0
+4,AFG,Afghanistan,South Asia,Soybeans,2012,"$41,984 ",0,0,0
+8,ALB,Albania,Europe,Soybeans,2012,"$141,520 ",0,0,0
+10,ATA,Antarctica,Other,Soybeans,2012,"$1,877,034 ",0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2012,"$9,819,046 ",0,0,0
+20,AND,Andorra,Europe,Soybeans,2012,$3 ,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2012,"$1,158,966 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2012,"$9,685 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2012,"$131,194 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2012,"$197,182 ",0,0,-48%
+36,AUS,Australia,Oceania,Soybeans,2012,"$3,646,721 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2012,"$2,976,636 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2012,"$37,824 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2012,"$61,306 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2012,"$10,805,520 ",0,0,0
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2012,"$122,081 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2012,"$127,140 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2012,"$9,768,982 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2012,"$6,861 ",0,0,0
+64,BTN,Bhutan,South Asia,Soybeans,2012,"$112,139 ",0,0,0
+68,BOL,Bolivia,South America,Soybeans,2012,"$149,857 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2012,"$575,086 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2012,"$78,546 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2012,"$1,622,348 ",0,0,0
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2012,"$76,241 ",0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2012,"$9,777 ",0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2012,"$18,644 ",0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2012,"$26,606 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2012,"$733,363 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2012,"$186,720 ",0,0,0
+108,BDI,Burundi,Sub-Saharan Africa,Soybeans,2012,"$56,270 ",0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2012,"$2,331,967 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2012,"$275,193 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2012,"$183,220 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2012,"$6,747,489 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2012,"$112,007 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2012,"$321,274 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2012,"$8,300 ",0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2012,"$847,666 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2012,$810 ,0,0,0
+152,CHL,Chile,South America,Soybeans,2012,"$3,258,492 ",0,0,0
+156,CHN,China,China,Soybeans,2012,"$353,425,674 ",1535,71%,22%
+162,CXR,Christmas Isds,Oceania,Soybeans,2012,$0 ,0,0,0
+170,COL,Colombia,South America,Soybeans,2012,"$9,600,169 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2012,$487 ,0,0,0
+175,MYT,Mayotte,Sub-Saharan Africa,Soybeans,2012,"$83,107 ",0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2012,"$47,374 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2012,"$157,968 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2012,$582 ,0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2012,"$1,861,320 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2012,"$972,547 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2012,"$2,888,397 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2012,"$612,851 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2012,"$2,312,787 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2012,"$3,284 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2012,"$7,672,725 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2012,"$22,262 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2012,"$2,639,851 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2012,"$5,592,655 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2012,"$1,142,891 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2012,"$45,586 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2012,"$48,867 ",0,0,0
+232,ERI,Eritrea,Sub-Saharan Africa,Soybeans,2012,"$31,308 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2012,"$285,567 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2012,"$35,186 ",0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2012,"$210,976 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2012,"$807,864 ",0,0,0
+251,FRA,France,Europe,Soybeans,2012,"$21,920,134 ",0,0,0
+258,PYF,French Polynesia,Oceania,Soybeans,2012,"$18,627 ",0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2012,"$11,565 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2012,"$29,321 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2012,"$199,213 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2012,"$5,769 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2012,"$81,874 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2012,"$43,475,366 ",7973565.547,9%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2012,"$171,524 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2012,"$4,750 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2012,$978 ,0,0,0
+300,GRC,Greece,Europe,Soybeans,2012,"$2,792,516 ",0,0,0
+304,GRL,Greenland,North America,Soybeans,2012,$315 ,0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2012,"$26,248 ",0,0,0
+316,GUM,Guam,Oceania,Soybeans,2012,$207 ,0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2012,"$2,352,325 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2012,"$26,507 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2012,"$170,289 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2012,"$201,064 ",0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2012,"$1,009,141 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2012,"$1,100,751 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2012,"$3,097,990 ",0,0,0
+352,ISL,Iceland,Europe,Soybeans,2012,"$164,107 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2012,"$29,857,928 ",5472618.67,6%,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2012,"$16,230,443 ",0,0,0
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2012,"$86,203 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2012,"$2,941,902 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2012,"$4,578,549 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2012,"$16,807,453 ",0,0,0
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2012,"$141,999 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2012,"$875,606 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2012,"$29,029,547 ",4954816.515,6%,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2012,"$114,826 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2012,"$2,007,408 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2012,"$134,112 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2012,"$1,210,969 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2012,"$18,286,178 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2012,"$529,365 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2012,"$25,237 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2012,"$13,173 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2012,"$1,110,101 ",0,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,Soybeans,2012,"$49,230 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2012,"$1,013,400 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2012,"$7,631 ",0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2012,"$979,195 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2012,"$1,455,605 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2012,"$117,438 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2012,"$80,579 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2012,"$368,234 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2012,"$258,251 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2012,"$10,822,040 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2012,"$5,258 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2012,"$11,008 ",0,0,0
+470,MLT,Malta,Europe,Soybeans,2012,"$160,698 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2012,"$378,101 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2012,"$531,210 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2012,"$22,385,631 ",0,0,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2012,"$14,567,043 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2012,"$71,025 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2012,"$86,170 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2012,"$5,016 ",0,0,0
+500,MSR,Montserrat,Caribbean and Central America,Soybeans,2012,$393 ,0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2012,"$7,895,247 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2012,"$531,094 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2012,"$333,645 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2012,"$39,886 ",0,0,0
+520,NRU,Nauru,Oceania,Soybeans,2012,$271 ,0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2012,"$2,042,712 ",0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2012,"$39,122,973 ",7606487.048,8%,0
+531,CUW,Curacao,Caribbean and Central America,Soybeans,2012,"$9,625 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2012,"$5,943 ",0,0,0
+534,SXM,Sint Maarten (Dutch part),Caribbean and Central America,Soybeans,2012,"$1,095 ",0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2012,"$21,525 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2012,$197 ,0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2012,"$866,515 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2012,"$940,157 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2012,"$5,371 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2012,"$629,644 ",0,0,0
+570,NIU,Niue,Oceania,Soybeans,2012,$67 ,0,0,0
+574,NFK,Norfolk Isds,Oceania,Soybeans,2012,$10 ,0,0,0
+579,NOR,Norway,Europe,Soybeans,2012,"$3,443,889 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2012,$318 ,0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2012,"$2,637 ",0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2012,$138 ,0,0,0
+585,PLW,Palau,Oceania,Soybeans,2012,"$1,717 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2012,"$2,834,042 ",0,0,0
+591,PAN,Panama,Caribbean and Central America,Soybeans,2012,"$1,033,603 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2012,"$176,230 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2012,"$228,491 ",0,0,0
+604,PER,Peru,South America,Soybeans,2012,"$9,757,750 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2012,"$7,434,217 ",0,0,0
+616,POL,Poland,Europe,Soybeans,2012,"$11,233,594 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2012,"$6,545,389 ",0,0,0
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2012,"$9,281 ",0,0,0
+626,TLS,Timor-Leste,Southeast Asia,Soybeans,2012,"$3,495 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2012,"$7,999 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2012,"$3,190,129 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2012,"$7,137,288 ",0,0,0
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2012,"$21,375 ",0,0,0
+654,SHN,Saint Helena,Sub-Saharan Africa,Soybeans,2012,$0 ,0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2012,"$4,907 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2012,$1 ,0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2012,"$14,811 ",0,0,0
+666,SPM,Saint Pierre and Miquelon,North America,Soybeans,2012,$0 ,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2012,"$48,290 ",0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2012,"$39,274 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2012,"$5,058,860 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2012,"$974,781 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2012,"$511,623 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2012,$600 ,0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2012,$389 ,0,0,0
+699,IND,India,South Asia,Soybeans,2012,"$14,242,437 ",0,0,0
+702,SGP,Singapore,Southeast Asia,Soybeans,2012,"$1,322,680 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2012,"$833,338 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2012,"$19,747,278 ",0,0,21%
+705,SVN,Slovenia,Europe,Soybeans,2012,"$2,070,783 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2012,$114 ,0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2012,"$6,299,830 ",0,0,0
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2012,"$1,259,325 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2012,"$27,231,154 ",0,0,0
+728,SSD,South Sudan,Sub-Saharan Africa,Soybeans,2012,$366 ,0,0,0
+729,SDN,Sudan,Sub-Saharan Africa,Soybeans,2012,"$95,248 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2012,"$202,703 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2012,"$110,560 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2012,"$2,112,536 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2012,"$1,829,968 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2012,"$1,974,287 ",0,0,0
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2012,"$55,251 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2012,"$25,738,830 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2012,"$5,252 ",0,0,0
+776,TON,Tonga,Oceania,Soybeans,2012,"$5,712 ",0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2012,"$501,369 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2012,"$3,018,172 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2012,"$4,275,299 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2012,"$12,848,018 ",0,0,0
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2012,"$8,162 ",0,0,0
+796,TCA,Turks and Caicos Isds,Caribbean and Central America,Soybeans,2012,$171 ,0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2012,$281 ,0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2012,"$5,841 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2012,"$120,948 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2012,"$203,782 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2012,"$15,739,903 ",0,0,23%
+826,GBR,United Kingdom,Europe,Soybeans,2012,"$14,819,764 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2012,"$167,874 ",0,0,0
+837,,Bunkers,Other,Soybeans,2012,"$2,597 ",0,0,0
+838,,Free Zones,Other,Soybeans,2012,"$7,649,723 ",0,0,34%
+842,USA,USA,North America,Soybeans,2012,"$5,251,689 ",0,0,27%
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2012,"$45,475 ",0,0,0
+858,URY,Uruguay,South America,Soybeans,2012,"$608,617 ",0,0,0
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2012,"$229,440 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2012,"$11,680,402 ",0,0,0
+876,WLF,Wallis and Futuna Isds,Oceania,Soybeans,2012,$3 ,0,0,0
+882,WSM,Samoa,Oceania,Soybeans,2012,$533 ,0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2012,"$749,381 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2012,"$341,659 ",0,0,0
+899,,All Countries,Other,Soybeans,2012,"$998,926,574 ",0,0,0
+4,AFG,Afghanistan,South Asia,Soybeans,2013,$152 ,0,0,0
+8,ALB,Albania,Europe,Soybeans,2013,"$149,014 ",0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2013,"$13,202,466 ",0,0,0
+16,ASM,American Samoa,Oceania,Soybeans,2013,$291 ,0,0,0
+20,AND,Andorra,Europe,Soybeans,2013,$184 ,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2013,"$1,407,082 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2013,"$8,248 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2013,"$203,408 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2013,"$1,162,584 ",0,0,-37%
+36,AUS,Australia,Oceania,Soybeans,2013,"$3,641,906 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2013,"$3,526,291 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2013,"$42,256 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2013,"$84,229 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2013,"$10,613,314 ",0,0,16%
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2013,"$134,246 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2013,"$123,529 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2013,"$9,643,619 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2013,"$6,903 ",0,0,0
+68,BOL,Bolivia,South America,Soybeans,2013,"$158,344 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2013,"$596,341 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2013,"$84,825 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2013,"$1,323,200 ",0,0,0
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2013,"$122,004 ",0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2013,$172 ,0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2013,"$16,915 ",0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2013,"$49,395 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2013,"$781,178 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2013,"$843,309 ",0,0,0
+108,BDI,Burundi,Sub-Saharan Africa,Soybeans,2013,"$41,863 ",0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2013,"$2,408,101 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2013,"$343,415 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2013,"$248,477 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2013,"$6,323,229 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2013,"$106,420 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2013,"$41,139 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2013,$45 ,0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2013,"$974,465 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2013,"$3,141 ",0,0,0
+152,CHL,Chile,South America,Soybeans,2013,"$3,388,624 ",0,0,0
+156,CHN,China,China,Soybeans,2013,"$378,787,731 ",65447955.65,72%,0
+162,CXR,Christmas Isds,Oceania,Soybeans,2013,$0 ,0,0,0
+170,COL,Colombia,South America,Soybeans,2013,"$10,405,965 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2013,"$2,060 ",0,0,0
+175,MYT,Mayotte,Sub-Saharan Africa,Soybeans,2013,"$15,218 ",0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2013,"$32,775 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2013,"$40,899 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2013,$585 ,0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2013,"$1,597,171 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2013,"$983,782 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2013,"$2,731,212 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2013,"$667,993 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2013,"$2,584,986 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2013,"$2,462 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2013,"$8,659,330 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2013,"$6,059 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2013,"$3,046,713 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2013,"$5,257,396 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2013,"$1,098,788 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2013,"$27,586 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2013,"$95,727 ",0,0,0
+232,ERI,Eritrea,Sub-Saharan Africa,Soybeans,2013,"$26,668 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2013,"$341,178 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2013,"$1,370 ",0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2013,"$204,082 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2013,"$910,863 ",0,0,0
+251,FRA,France,Europe,Soybeans,2013,"$21,154,965 ",0,0,-5.30%
+258,PYF,French Polynesia,Oceania,Soybeans,2013,"$22,045 ",0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2013,"$9,564 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2013,"$40,705 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2013,"$253,766 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2013,"$7,913 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2013,"$94,952 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2013,"$42,035,400 ",7146007.098,8%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2013,"$237,095 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2013,"$6,850 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2013,"$1,176 ",0,0,0
+300,GRC,Greece,Europe,Soybeans,2013,"$3,265,910 ",0,0,-4.80%
+304,GRL,Greenland,North America,Soybeans,2013,$388 ,0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2013,"$17,543 ",0,0,0
+316,GUM,Guam,Oceania,Soybeans,2013,"$2,052 ",0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2013,"$2,676,667 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2013,"$25,086 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2013,"$162,332 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2013,"$83,215 ",0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2013,"$967,641 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2013,"$1,104,688 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2013,"$2,836,065 ",0,0,-12%
+352,ISL,Iceland,Europe,Soybeans,2013,"$139,334 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2013,"$29,888,539 ",5389367.231,6%,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2013,"$24,407,234 ",0,0,21%
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2013,"$60,460 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2013,"$4,016,693 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2013,"$3,050,667 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2013,"$17,449,244 ",0,0,0
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2013,"$142,524 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2013,"$881,577 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2013,"$29,054,056 ",4655303.048,6%,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2013,"$175,665 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2013,"$1,493,751 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2013,"$233,770 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2013,"$1,176,213 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2013,"$18,609,065 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2013,"$501,103 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2013,"$39,289 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2013,"$9,295 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2013,"$1,191,177 ",0,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,Soybeans,2013,"$65,551 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2013,"$1,169,242 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2013,"$3,413 ",0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2013,"$1,283,162 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2013,"$1,370,504 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2013,"$137,390 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2013,"$86,375 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2013,"$255,707 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2013,"$151,990 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2013,"$11,830,005 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2013,"$10,373 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2013,"$34,405 ",0,0,0
+470,MLT,Malta,Europe,Soybeans,2013,"$139,954 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2013,"$360,753 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2013,"$434,964 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2013,"$28,999,050 ",0,0,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2013,"$6,672,253 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2013,"$129,121 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2013,"$112,141 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2013,"$1,292 ",0,0,0
+500,MSR,Montserrat,Caribbean and Central America,Soybeans,2013,$617 ,0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2013,"$6,742,555 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2013,"$559,512 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2013,"$549,912 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2013,"$89,204 ",0,0,0
+520,NRU,Nauru,Oceania,Soybeans,2013,$57 ,0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2013,"$3,633,851 ",0,0,0
+527,,"Oceania, nes",Oceania,Soybeans,2013,$37 ,0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2013,"$46,168,314 ",8293666.078,9%,0
+531,CUW,Curacao,Caribbean and Central America,Soybeans,2013,"$9,296 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2013,"$5,756 ",0,0,0
+534,SXM,Sint Maarten (Dutch part),Caribbean and Central America,Soybeans,2013,$454 ,0,0,0
+535,BES,Bonaire,Caribbean and Central America,Soybeans,2013,$0 ,0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2013,"$28,139 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2013,$227 ,0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2013,"$776,327 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2013,"$798,784 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2013,"$5,063 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2013,"$232,705 ",0,0,0
+570,NIU,Niue,Oceania,Soybeans,2013,$48 ,0,0,0
+574,NFK,Norfolk Isds,Oceania,Soybeans,2013,$11 ,0,0,0
+579,NOR,Norway,Europe,Soybeans,2013,"$3,523,640 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2013,$319 ,0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2013,"$2,015 ",0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2013,$44 ,0,0,0
+585,PLW,Palau,Oceania,Soybeans,2013,"$1,217 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2013,"$3,817,877 ",0,0,0
+591,PAN,Panama,Caribbean and Central America,Soybeans,2013,"$1,437,014 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2013,"$105,016 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2013,"$243,403 ",0,0,0
+604,PER,Peru,South America,Soybeans,2013,"$9,900,143 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2013,"$9,406,514 ",0,0,0
+616,POL,Poland,Europe,Soybeans,2013,"$11,334,826 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2013,"$5,845,930 ",0,0,0
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2013,"$8,540 ",0,0,0
+626,TLS,Timor-Leste,Southeast Asia,Soybeans,2013,"$3,270 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2013,"$40,736 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2013,"$3,375,830 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2013,"$10,777,475 ",0,0,0
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2013,"$18,034 ",0,0,0
+652,BLM,Saint-Barthelemy,Caribbean and Central America,Soybeans,2013,$0 ,0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2013,"$3,729 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2013,$5 ,0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2013,"$14,618 ",0,0,0
+666,SPM,Saint Pierre and Miquelon,North America,Soybeans,2013,$0 ,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2013,"$28,331 ",0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2013,"$41,024 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2013,"$6,923,268 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2013,"$700,565 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2013,"$467,637 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2013,"$5,307 ",0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2013,$8 ,0,0,0
+699,IND,India,South Asia,Soybeans,2013,"$11,967,365 ",0,0,0
+702,SGP,Singapore,Southeast Asia,Soybeans,2013,"$729,417 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2013,"$760,524 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2013,"$25,932,660 ",0,0,17%
+705,SVN,Slovenia,Europe,Soybeans,2013,"$1,939,431 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2013,$18 ,0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2013,"$5,435,660 ",0,0,0
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2013,"$869,860 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2013,"$27,095,051 ",0,0,0
+728,SSD,South Sudan,Sub-Saharan Africa,Soybeans,2013,$165 ,0,0,0
+729,SDN,Sudan,Sub-Saharan Africa,Soybeans,2013,"$43,189 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2013,"$212,446 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2013,"$97,814 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2013,"$2,348,391 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2013,"$3,116,418 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2013,"$1,389,946 ",0,0,0
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2013,"$70,956 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2013,"$25,052,283 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2013,"$4,128 ",0,0,0
+776,TON,Tonga,Oceania,Soybeans,2013,"$3,747 ",0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2013,"$465,286 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2013,"$3,057,033 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2013,"$4,621,101 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2013,"$12,856,307 ",0,0,0
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2013,"$9,110 ",0,0,0
+796,TCA,Turks and Caicos Isds,Caribbean and Central America,Soybeans,2013,"$31,773 ",0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2013,$350 ,0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2013,"$6,894 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2013,"$115,180 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2013,"$218,461 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2013,"$17,904,617 ",0,0,0
+826,GBR,United Kingdom,Europe,Soybeans,2013,"$15,978,789 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2013,"$99,823 ",0,0,0
+837,,Bunkers,Other,Soybeans,2013,"$1,920 ",0,0,0
+838,,Free Zones,Other,Soybeans,2013,"$8,552,115 ",0,0,27%
+842,USA,USA,North America,Soybeans,2013,"$10,149,497 ",0,0,0
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2013,"$89,404 ",0,0,0
+858,URY,Uruguay,South America,Soybeans,2013,"$830,640 ",0,0,0
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2013,"$331,974 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2013,"$13,232,128 ",0,0,0
+876,WLF,Wallis and Futuna Isds,Oceania,Soybeans,2013,"$1,921,249 ",0,0,0
+882,WSM,Samoa,Oceania,Soybeans,2013,"$1,450 ",0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2013,"$765,566 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2013,"$140,100 ",0,0,0
+899,,All Countries,Other,Soybeans,2013,"$1,066,183,673 ",0,0,0
+4,AFG,Afghanistan,South Asia,Soybeans,2014,$43 ,0,0,0
+8,ALB,Albania,Europe,Soybeans,2014,"$105,847 ",0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2014,"$13,430,418 ",0,0,0
+16,ASM,American Samoa,Oceania,Soybeans,2014,$28 ,0,0,0
+20,AND,Andorra,Europe,Soybeans,2014,$564 ,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2014,"$808,131 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2014,"$6,592 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2014,"$266,037 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2014,"$563,753 ",0,0,0
+36,AUS,Australia,Oceania,Soybeans,2014,"$3,730,237 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2014,"$2,786,303 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2014,"$36,804 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2014,"$106,959 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2014,"$9,176,297 ",0,0,0
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2014,"$139,059 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2014,"$130,239 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2014,"$9,658,390 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2014,"$3,301 ",0,0,0
+64,BTN,Bhutan,South Asia,Soybeans,2014,$851 ,0,0,0
+68,BOL,Bolivia,South America,Soybeans,2014,"$125,356 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2014,"$517,593 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2014,"$104,807 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2014,"$2,597,603 ",0,0,0
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2014,"$128,048 ",0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2014,$84 ,0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2014,"$1,141 ",0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2014,"$62,832 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2014,"$780,387 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2014,"$482,229 ",0,0,0
+108,BDI,Burundi,Sub-Saharan Africa,Soybeans,2014,$63 ,0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2014,"$2,756,588 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2014,"$468,943 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2014,"$256,296 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2014,"$7,484,656 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2014,"$177,671 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2014,"$7,288 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2014,"$2,085 ",0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2014,"$949,689 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2014,$552 ,0,0,0
+152,CHL,Chile,South America,Soybeans,2014,"$4,340,444 ",0,0,0
+156,CHN,China,China,Soybeans,2014,"$388,249,092 ",69119876.82,74%,0
+162,CXR,Christmas Isds,Oceania,Soybeans,2014,$0 ,0,0,0
+170,COL,Colombia,South America,Soybeans,2014,"$11,450,206 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2014,$188 ,0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2014,"$29,754 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2014,"$78,471 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2014,$479 ,0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2014,"$1,610,686 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2014,"$1,193,521 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2014,"$3,235,024 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2014,"$590,763 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2014,"$2,429,550 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2014,"$4,338 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2014,"$9,051,321 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2014,"$2,143 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2014,"$2,487,240 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2014,"$5,244,324 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2014,"$1,112,618 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2014,"$17,793 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2014,"$44,676 ",0,0,0
+232,ERI,Eritrea,Sub-Saharan Africa,Soybeans,2014,"$28,602 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2014,"$326,956 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2014,"$14,219 ",0,0,0
+238,FLK,Falkland Isds (Malvinas),South America,Soybeans,2014,$30 ,0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2014,"$277,421 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2014,"$899,925 ",0,0,0
+251,FRA,France,Europe,Soybeans,2014,"$21,147,785 ",0,0,0
+258,PYF,French Polynesia,Oceania,Soybeans,2014,"$19,858 ",0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2014,"$8,672 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2014,"$34,339 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2014,"$315,033 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2014,"$5,669 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2014,"$101,473 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2014,"$35,441,555 ",6416386.617,7%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2014,"$204,147 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2014,"$3,839 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2014,$276 ,0,0,0
+300,GRC,Greece,Europe,Soybeans,2014,"$3,095,187 ",0,0,0
+304,GRL,Greenland,North America,Soybeans,2014,$347 ,0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2014,"$14,761 ",0,0,0
+316,GUM,Guam,Oceania,Soybeans,2014,"$1,422 ",0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2014,"$2,574,882 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2014,"$26,249 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2014,"$179,840 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2014,"$50,528 ",0,0,0
+336,VAT,Holy See,Europe,Soybeans,2014,$0 ,0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2014,"$1,124,766 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2014,"$766,712 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2014,"$2,927,102 ",0,0,0
+352,ISL,Iceland,Europe,Soybeans,2014,"$132,632 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2014,"$33,297,898 ",5798717.651,6%,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2014,"$14,485,121 ",0,0,0
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2014,"$418,226 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2014,"$3,677,114 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2014,"$3,857,508 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2014,"$18,448,857 ",0,0,0
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2014,"$242,968 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2014,"$712,903 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2014,"$27,766,616 ",0,0,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2014,"$317,182 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2014,"$2,202,401 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2014,"$218,143 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2014,"$1,379,439 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2014,"$19,628,980 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2014,"$648,544 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2014,"$15,526 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2014,"$22,860 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2014,"$1,230,255 ",0,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,Soybeans,2014,"$57,047 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2014,"$1,484,351 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2014,"$3,151 ",0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2014,"$1,209,540 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2014,"$996,288 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2014,"$245,623 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2014,"$97,479 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2014,"$385,087 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2014,"$137,486 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2014,"$12,060,646 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2014,"$8,818 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2014,"$1,914 ",0,0,0
+470,MLT,Malta,Europe,Soybeans,2014,"$136,954 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2014,"$443,016 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2014,"$517,818 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2014,"$30,721,980 ",5428765.77,6%,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2014,"$11,932,976 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2014,"$71,090 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2014,"$117,295 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2014,"$1,114 ",0,0,0
+500,MSR,Montserrat,Caribbean and Central America,Soybeans,2014,$332 ,0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2014,"$6,906,803 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2014,"$312,963 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2014,"$479,891 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2014,"$103,066 ",0,0,0
+520,NRU,Nauru,Oceania,Soybeans,2014,$107 ,0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2014,"$2,189,865 ",0,0,0
+527,,"Oceania, nes",Oceania,Soybeans,2014,$41 ,0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2014,"$47,410,881 ",8789110.364,9%,0
+531,CUW,Curacao,Caribbean and Central America,Soybeans,2014,"$9,927 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2014,"$4,889 ",0,0,0
+534,SXM,Sint Maarten (Dutch part),Caribbean and Central America,Soybeans,2014,$621 ,0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2014,"$26,839 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2014,$54 ,0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2014,"$1,016,911 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2014,"$948,009 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2014,"$5,069 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2014,"$502,388 ",0,0,0
+570,NIU,Niue,Oceania,Soybeans,2014,$55 ,0,0,0
+574,NFK,Norfolk Isds,Oceania,Soybeans,2014,$5 ,0,0,0
+579,NOR,Norway,Europe,Soybeans,2014,"$3,017,302 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2014,$961 ,0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2014,$166 ,0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2014,$79 ,0,0,0
+585,PLW,Palau,Oceania,Soybeans,2014,"$1,338 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2014,"$5,951,546 ",0,0,31%
+591,PAN,Panama,Caribbean and Central America,Soybeans,2014,"$1,348,468 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2014,"$115,480 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2014,"$163,793 ",0,0,0
+604,PER,Peru,South America,Soybeans,2014,"$10,053,183 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2014,"$11,414,304 ",0,0,0
+616,POL,Poland,Europe,Soybeans,2014,"$12,243,460 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2014,"$5,631,805 ",0,0,0
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2014,"$15,451 ",0,0,0
+626,TLS,Timor-Leste,Southeast Asia,Soybeans,2014,"$3,118 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2014,"$27,329 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2014,"$3,319,196 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2014,"$13,902,508 ",0,0,0
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2014,"$27,611 ",0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2014,"$2,392 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2014,$3 ,0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2014,"$13,245 ",0,0,0
+666,SPM,Saint Pierre and Miquelon,North America,Soybeans,2014,$16 ,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2014,"$42,675 ",0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2014,"$31,466 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2014,"$6,213,907 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2014,"$514,174 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2014,"$516,741 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2014,"$8,728 ",0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2014,$826 ,0,0,0
+699,IND,India,South Asia,Soybeans,2014,"$19,883,767 ",0,0,22%
+702,SGP,Singapore,Southeast Asia,Soybeans,2014,"$689,498 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2014,"$1,080,404 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2014,"$28,158,560 ",0,0,19%
+705,SVN,Slovenia,Europe,Soybeans,2014,"$2,333,626 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2014,$498 ,0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2014,"$4,420,011 ",0,0,0
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2014,"$865,213 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2014,"$28,235,775 ",0,0,0
+728,SSD,South Sudan,Sub-Saharan Africa,Soybeans,2014,$995 ,0,0,0
+729,SDN,Sudan,Sub-Saharan Africa,Soybeans,2014,"$25,482 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2014,"$178,659 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2014,"$122,861 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2014,"$2,129,170 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2014,"$2,098,539 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2014,"$1,344,931 ",0,0,-24%
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2014,"$57,524 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2014,"$27,687,618 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2014,"$3,269 ",0,0,0
+776,TON,Tonga,Oceania,Soybeans,2014,"$2,771 ",0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2014,"$594,029 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2014,"$2,304,134 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2014,"$4,447,811 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2014,"$14,552,037 ",0,0,19%
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2014,"$7,748 ",0,0,0
+796,TCA,Turks and Caicos Isds,Caribbean and Central America,Soybeans,2014,"$78,201 ",0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2014,$193 ,0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2014,"$15,233 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2014,"$71,597 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2014,"$241,533 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2014,"$17,148,671 ",0,0,0
+826,GBR,United Kingdom,Europe,Soybeans,2014,"$15,367,562 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2014,"$202,650 ",0,0,0
+837,,Bunkers,Other,Soybeans,2014,$843 ,0,0,0
+838,,Free Zones,Other,Soybeans,2014,"$8,999,474 ",0,0,0
+842,USA,USA,North America,Soybeans,2014,"$14,638,659 ",0,0,37%
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2014,"$9,840 ",0,0,0
+858,URY,Uruguay,South America,Soybeans,2014,"$728,130 ",0,0,0
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2014,"$438,791 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2014,"$11,517,490 ",0,0,0
+876,WLF,Wallis and Futuna Isds,Oceania,Soybeans,2014,"$114,467 ",0,0,0
+882,WSM,Samoa,Oceania,Soybeans,2014,$130 ,0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2014,"$1,690,446 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2014,"$238,335 ",0,0,0
+899,,All Countries,Other,Soybeans,2014,"$1,095,177,997 ",0,0,0
+4,AFG,Afghanistan,South Asia,Soybeans,2015,"$3,827 ",0,0,0
+8,ALB,Albania,Europe,Soybeans,2015,"$137,013 ",0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2015,"$10,457,567 ",0,0,0
+16,ASM,American Samoa,Oceania,Soybeans,2015,$235 ,0,0,0
+20,AND,Andorra,Europe,Soybeans,2015,$0 ,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2015,"$473,817 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2015,"$5,874 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2015,"$136,078 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2015,"$336,907 ",0,0,0
+36,AUS,Australia,Oceania,Soybeans,2015,"$2,832,781 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2015,"$2,544,013 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2015,"$30,600 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2015,"$79,976 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2015,"$14,114,927 ",0,0,17%
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2015,"$117,114 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2015,"$118,297 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2015,"$7,727,090 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2015,"$3,865 ",0,0,0
+64,BTN,Bhutan,South Asia,Soybeans,2015,"$1,343 ",0,0,0
+68,BOL,Bolivia,South America,Soybeans,2015,"$127,896 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2015,"$486,473 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2015,"$146,256 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2015,"$1,308,319 ",0,0,0
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2015,"$113,764 ",0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2015,"$7,598 ",0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2015,$522 ,0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2015,"$79,223 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2015,"$826,115 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2015,"$1,353,603 ",0,0,0
+108,BDI,Burundi,Sub-Saharan Africa,Soybeans,2015,$404 ,0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2015,"$1,537,000 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2015,"$450,076 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2015,"$257,500 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2015,"$5,144,558 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2015,"$102,241 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2015,"$2,344 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2015,$301 ,0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2015,"$1,032,295 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2015,$222 ,0,0,0
+152,CHL,Chile,South America,Soybeans,2015,"$3,725,431 ",0,0,0
+156,CHN,China,China,Soybeans,2015,"$336,035,735 ",82000465.35,74%,0
+162,CXR,Christmas Isds,Oceania,Soybeans,2015,$0 ,0,0,0
+170,COL,Colombia,South America,Soybeans,2015,"$9,820,411 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2015,$330 ,0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2015,"$61,756 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2015,"$38,042 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2015,$216 ,0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2015,"$1,426,421 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2015,"$811,351 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2015,"$2,414,627 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2015,"$437,375 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2015,"$1,612,155 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2015,"$1,095 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2015,"$7,009,358 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2015,"$2,402 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2015,"$2,993,580 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2015,"$4,482,641 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2015,"$901,483 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2015,"$15,615 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2015,"$143,239 ",0,0,0
+232,ERI,Eritrea,Sub-Saharan Africa,Soybeans,2015,"$36,465 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2015,"$138,581 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2015,"$25,462 ",0,0,0
+238,FLK,Falkland Isds (Malvinas),South America,Soybeans,2015,$45 ,0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2015,"$133,825 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2015,"$573,682 ",0,0,0
+251,FRA,France,Europe,Soybeans,2015,"$17,440,493 ",0,0,0
+258,PYF,French Polynesia,Oceania,Soybeans,2015,"$14,399 ",0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2015,"$10,383 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2015,"$25,361 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2015,"$171,550 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2015,"$8,584 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2015,"$138,710 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2015,"$30,299,399 ",7297914.024,7%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2015,"$164,566 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2015,"$5,421 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2015,$218 ,0,0,0
+300,GRC,Greece,Europe,Soybeans,2015,"$2,507,151 ",0,0,0
+304,GRL,Greenland,North America,Soybeans,2015,$181 ,0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2015,"$16,938 ",0,0,0
+316,GUM,Guam,Oceania,Soybeans,2015,$621 ,0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2015,"$2,257,915 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2015,"$26,118 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2015,"$254,154 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2015,"$60,138 ",0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2015,"$935,414 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2015,"$646,978 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2015,"$2,453,795 ",0,0,0
+352,ISL,Iceland,Europe,Soybeans,2015,"$117,464 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2015,"$26,996,230 ",6266980.481,6%,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2015,"$14,407,689 ",0,0,-5%
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2015,"$517,806 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2015,"$3,094,151 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2015,"$3,118,570 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2015,"$12,894,554 ",0,0,-4%
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2015,"$300,763 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2015,"$602,174 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2015,"$24,418,116 ",0,0,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2015,"$119,221 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2015,"$1,732,700 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2015,"$200,871 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2015,"$1,234,908 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2015,"$16,342,988 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2015,"$525,319 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2015,"$16,938 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2015,"$34,385 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2015,"$1,207,894 ",0,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,Soybeans,2015,"$32,693 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2015,"$1,010,294 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2015,$122 ,0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2015,"$974,343 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2015,"$693,632 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2015,"$106,843 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2015,"$59,781 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2015,"$391,994 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2015,"$114,627 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2015,"$9,708,750 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2015,"$6,676 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2015,$922 ,0,0,0
+470,MLT,Malta,Europe,Soybeans,2015,"$121,314 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2015,"$89,223 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2015,"$401,041 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2015,"$25,760,682 ",6152356.672,6%,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2015,"$11,102,218 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2015,"$65,326 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2015,"$130,658 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2015,"$3,642 ",0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2015,"$5,596,778 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2015,"$481,435 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2015,"$648,938 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2015,"$80,649 ",0,0,0
+520,NRU,Nauru,Oceania,Soybeans,2015,$18 ,0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2015,"$1,488,881 ",0,0,0
+527,,"Oceania, nes",Oceania,Soybeans,2015,$61 ,0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2015,"$34,653,448 ",8343133.997,8%,0
+531,CUW,Curacao,Caribbean and Central America,Soybeans,2015,"$7,486 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2015,"$4,207 ",0,0,0
+534,SXM,Sint Maarten (Dutch part),Caribbean and Central America,Soybeans,2015,$227 ,0,0,0
+535,BES,Bonaire,Caribbean and Central America,Soybeans,2015,$0 ,0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2015,"$17,314 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2015,$201 ,0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2015,"$815,246 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2015,"$928,265 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2015,"$4,545 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2015,"$1,052,732 ",0,0,0
+568,,"Other Europe, nes",Europe,Soybeans,2015,$199 ,0,0,0
+570,NIU,Niue,Oceania,Soybeans,2015,$58 ,0,0,0
+574,NFK,Norfolk Isds,Oceania,Soybeans,2015,$0 ,0,0,0
+577,,"Other Africa, nes",Sub-Saharan Africa,Soybeans,2015,$0 ,0,0,0
+579,NOR,Norway,Europe,Soybeans,2015,"$3,435,310 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2015,$627 ,0,0,0
+581,UMI,United States Minor Outlying Isds,Oceania,Soybeans,2015,$0 ,0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2015,$764 ,0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2015,$48 ,0,0,0
+585,PLW,Palau,Oceania,Soybeans,2015,"$1,257 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2015,"$8,065,210 ",0,0,36%
+591,PAN,Panama,Caribbean and Central America,Soybeans,2015,"$1,134,642 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2015,"$136,965 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2015,"$117,418 ",0,0,0
+604,PER,Peru,South America,Soybeans,2015,"$8,451,685 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2015,"$8,668,754 ",0,0,0
+616,POL,Poland,Europe,Soybeans,2015,"$10,047,119 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2015,"$4,343,855 ",0,0,-6.30%
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2015,"$16,124 ",0,0,0
+626,TLS,Timor-Leste,Southeast Asia,Soybeans,2015,"$2,164 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2015,"$44,991 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2015,"$2,919,086 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2015,"$11,294,030 ",0,0,0
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2015,"$16,920 ",0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2015,"$2,391 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2015,$9 ,0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2015,"$17,286 ",0,0,0
+666,SPM,Saint Pierre and Miquelon,North America,Soybeans,2015,$10 ,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2015,"$29,023 ",0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2015,"$28,706 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2015,"$5,885,831 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2015,"$438,699 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2015,"$501,481 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2015,"$7,978 ",0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2015,"$5,929 ",0,0,0
+699,IND,India,South Asia,Soybeans,2015,"$26,860,782 ",0,0,17%
+702,SGP,Singapore,Southeast Asia,Soybeans,2015,"$593,778 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2015,"$685,165 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2015,"$26,229,909 ",0,0,12%
+705,SVN,Slovenia,Europe,Soybeans,2015,"$2,525,264 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2015,$610 ,0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2015,"$3,762,208 ",0,0,-9.40%
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2015,"$1,243,749 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2015,"$23,883,237 ",0,0,0
+728,SSD,South Sudan,Sub-Saharan Africa,Soybeans,2015,"$1,429 ",0,0,0
+729,SDN,Sudan,Sub-Saharan Africa,Soybeans,2015,"$21,982 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2015,"$138,500 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2015,"$114,721 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2015,"$1,663,052 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2015,"$1,763,872 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2015,"$744,987 ",0,0,-29%
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2015,"$79,211 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2015,"$23,509,361 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2015,$622 ,0,0,0
+776,TON,Tonga,Oceania,Soybeans,2015,$38 ,0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2015,"$432,936 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2015,"$1,421,122 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2015,"$3,503,790 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2015,"$11,543,191 ",0,0,0
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2015,"$8,281 ",0,0,0
+796,TCA,Turks and Caicos Isds,Caribbean and Central America,Soybeans,2015,"$30,586 ",0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2015,$315 ,0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2015,"$5,910 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2015,"$117,151 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2015,"$156,106 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2015,"$17,103,745 ",0,0,0
+826,GBR,United Kingdom,Europe,Soybeans,2015,"$13,234,852 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2015,"$124,780 ",0,0,0
+837,,Bunkers,Other,Soybeans,2015,$777 ,0,0,0
+838,,Free Zones,Other,Soybeans,2015,"$7,305,133 ",0,0,0
+842,USA,USA,North America,Soybeans,2015,"$8,036,705 ",0,0,18%
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2015,"$6,604 ",0,0,0
+858,URY,Uruguay,South America,Soybeans,2015,"$483,936 ",0,0,0
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2015,"$989,235 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2015,"$7,825,391 ",0,0,0
+882,WSM,Samoa,Oceania,Soybeans,2015,"$90,945 ",0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2015,"$425,116 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2015,"$186,301 ",0,0,0
+899,,All Countries,Other,Soybeans,2015,"$939,285,752 ",0,0,0
+4,AFG,Afghanistan,South Asia,Soybeans,2016,"$4,956 ",0,0,0
+8,ALB,Albania,Europe,Soybeans,2016,"$94,253 ",0,0,0
+10,ATA,Antarctica,Other,Soybeans,2016,$0 ,0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2016,"$10,327,649 ",0,0,0
+16,ASM,American Samoa,Oceania,Soybeans,2016,$11 ,0,0,0
+20,AND,Andorra,Europe,Soybeans,2016,$0 ,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2016,"$751,585 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2016,"$5,051 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2016,"$208,661 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2016,"$3,574,595 ",0,0,0
+36,AUS,Australia,Oceania,Soybeans,2016,"$2,873,684 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2016,"$2,019,152 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2016,"$30,960 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2016,"$53,291 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2016,"$10,156,360 ",0,0,0
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2016,"$110,326 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2016,"$124,029 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2016,"$7,862,444 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2016,"$3,385 ",0,0,0
+64,BTN,Bhutan,South Asia,Soybeans,2016,"$1,030 ",0,0,0
+68,BOL,Bolivia,South America,Soybeans,2016,"$113,898 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2016,"$390,292 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2016,"$150,662 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2016,"$1,740,106 ",0,0,0
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2016,"$86,199 ",0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2016,"$8,584 ",0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2016,$304 ,0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2016,"$53,384 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2016,"$658,108 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2016,"$1,217,688 ",0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2016,"$1,417,896 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2016,"$305,733 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2016,"$117,512 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2016,"$4,684,756 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2016,"$76,827 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2016,"$2,540 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2016,$585 ,0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2016,"$1,142,861 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2016,$0 ,0,0,0
+152,CHL,Chile,South America,Soybeans,2016,"$4,541,684 ",0,0,8%
+156,CHN,China,China,Soybeans,2016,"$337,004,389 ",85049690.58,75%,0
+162,CXR,Christmas Isds,Oceania,Soybeans,2016,$0 ,0,0,0
+170,COL,Colombia,South America,Soybeans,2016,"$10,136,118 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2016,$87 ,0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2016,"$19,767 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2016,"$28,983 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2016,$284 ,0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2016,"$1,492,885 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2016,"$717,084 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2016,"$2,623,860 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2016,"$551,519 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2016,"$1,475,452 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2016,"$7,306 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2016,"$6,220,861 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2016,"$2,430 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2016,"$2,557,750 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2016,"$4,087,483 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2016,"$867,960 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2016,"$15,851 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2016,"$80,133 ",0,0,0
+232,ERI,Eritrea,Sub-Saharan Africa,Soybeans,2016,"$96,044 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2016,"$147,460 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2016,"$11,781 ",0,0,0
+238,FLK,Falkland Isds (Malvinas),South America,Soybeans,2016,$12 ,0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2016,"$175,423 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2016,"$757,568 ",0,0,0
+251,FRA,France,Europe,Soybeans,2016,"$15,193,735 ",0,0,-8%
+258,PYF,French Polynesia,Oceania,Soybeans,2016,"$3,148 ",0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2016,"$10,147 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2016,"$24,650 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2016,"$241,265 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2016,"$4,586 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2016,"$141,276 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2016,"$25,431,049 ",6347805.309,6%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2016,"$200,200 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2016,"$3,499 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2016,"$1,014 ",0,0,0
+300,GRC,Greece,Europe,Soybeans,2016,"$2,394,805 ",0,0,0
+304,GRL,Greenland,North America,Soybeans,2016,$43 ,0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2016,"$13,864 ",0,0,0
+316,GUM,Guam,Oceania,Soybeans,2016,"$2,415 ",0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2016,"$2,042,970 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2016,"$14,318 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2016,"$180,970 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2016,"$93,959 ",0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2016,"$933,494 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2016,"$519,250 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2016,"$2,284,606 ",0,0,0
+352,ISL,Iceland,Europe,Soybeans,2016,"$100,749 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2016,"$25,402,624 ",0,0,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2016,"$13,184,635 ",0,0,-13%
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2016,"$891,941 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2016,"$2,705,191 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2016,"$3,331,493 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2016,"$13,611,798 ",0,0,0
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2016,"$210,323 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2016,"$662,911 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2016,"$22,506,291 ",0,0,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2016,"$133,585 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2016,"$1,715,592 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2016,"$273,727 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2016,"$802,985 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2016,"$15,512,811 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2016,"$569,859 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2016,"$8,039 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2016,"$53,230 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2016,"$1,296,227 ",0,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,Soybeans,2016,"$25,380 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2016,"$666,276 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2016,"$1,020 ",0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2016,"$981,885 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2016,"$773,350 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2016,"$155,326 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2016,"$137,913 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2016,"$351,008 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2016,"$8,932 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2016,"$8,818,864 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2016,"$5,735 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2016,"$6,815 ",0,0,0
+470,MLT,Malta,Europe,Soybeans,2016,"$79,830 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2016,"$467,645 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2016,"$416,580 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2016,"$26,579,697 ",0,0,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2016,"$10,101,836 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2016,"$82,603 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2016,"$126,300 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2016,"$14,455 ",0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2016,"$5,576,192 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2016,"$785,390 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2016,"$567,421 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2016,"$72,346 ",0,0,0
+520,NRU,Nauru,Oceania,Soybeans,2016,$24 ,0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2016,"$579,278 ",0,0,0
+527,,"Oceania, nes",Oceania,Soybeans,2016,$41 ,0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2016,"$31,929,190 ",8083214.885,7%,0
+531,CUW,Curacao,Caribbean and Central America,Soybeans,2016,"$6,555 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2016,"$9,143 ",0,0,0
+534,SXM,Sint Maarten (Dutch part),Caribbean and Central America,Soybeans,2016,$390 ,0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2016,"$18,248 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2016,$32 ,0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2016,"$824,766 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2016,"$599,395 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2016,"$4,720 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2016,"$51,809 ",0,0,0
+568,,"Other Europe, nes",Europe,Soybeans,2016,$270 ,0,0,0
+570,NIU,Niue,Oceania,Soybeans,2016,$82 ,0,0,0
+579,NOR,Norway,Europe,Soybeans,2016,"$2,342,155 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2016,$540 ,0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2016,$117 ,0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2016,$20 ,0,0,0
+585,PLW,Palau,Oceania,Soybeans,2016,"$1,436 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2016,"$6,068,441 ",0,0,19%
+591,PAN,Panama,Caribbean and Central America,Soybeans,2016,"$1,178,386 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2016,"$127,659 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2016,"$97,063 ",0,0,0
+604,PER,Peru,South America,Soybeans,2016,"$8,338,885 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2016,"$10,568,436 ",0,0,8.10%
+616,POL,Poland,Europe,Soybeans,2016,"$9,900,380 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2016,"$3,671,530 ",0,0,-11%
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2016,"$10,392 ",0,0,0
+626,TLS,Timor-Leste,Southeast Asia,Soybeans,2016,"$2,790 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2016,"$63,135 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2016,"$1,930,090 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2016,"$10,173,248 ",0,0,0
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2016,"$38,008 ",0,0,0
+652,BLM,Saint-Barthelemy,Caribbean and Central America,Soybeans,2016,$0 ,0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2016,"$3,954 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2016,$0 ,0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2016,"$16,920 ",0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2016,"$16,846 ",0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2016,"$20,269 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2016,"$4,652,487 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2016,"$404,064 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2016,"$83,821 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2016,"$6,872 ",0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2016,"$7,435 ",0,0,0
+699,IND,India,South Asia,Soybeans,2016,"$29,116,094 ",3937644.789,6%,19%
+702,SGP,Singapore,Southeast Asia,Soybeans,2016,"$462,206 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2016,"$428,390 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2016,"$24,065,281 ",0,0,0
+705,SVN,Slovenia,Europe,Soybeans,2016,"$3,210,383 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2016,$430 ,0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2016,"$4,558,009 ",0,0,-9.30%
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2016,"$1,384,830 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2016,"$21,342,190 ",0,0,0
+728,SSD,South Sudan,Sub-Saharan Africa,Soybeans,2016,$230 ,0,0,0
+729,SDN,Sudan,Sub-Saharan Africa,Soybeans,2016,"$19,812 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2016,"$131,293 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2016,"$102,354 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2016,"$1,606,349 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2016,"$1,570,104 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2016,"$145,479 ",0,0,0
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2016,"$80,865 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2016,"$21,739,876 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2016,"$3,274 ",0,0,0
+776,TON,Tonga,Oceania,Soybeans,2016,$152 ,0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2016,"$377,835 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2016,"$1,320,102 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2016,"$3,831,982 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2016,"$10,885,608 ",0,0,0
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2016,"$14,246 ",0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2016,$192 ,0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2016,"$2,537 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2016,"$159,820 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2016,"$139,770 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2016,"$13,176,105 ",0,0,0
+826,GBR,United Kingdom,Europe,Soybeans,2016,"$11,856,555 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2016,"$166,191 ",0,0,0
+837,,Bunkers,Other,Soybeans,2016,$582 ,0,0,0
+838,,Free Zones,Other,Soybeans,2016,"$5,798,108 ",0,0,0
+839,,Special Categories,Other,Soybeans,2016,"$76,841 ",0,0,0
+842,USA,USA,North America,Soybeans,2016,"$6,716,140 ",0,0,11%
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2016,$860 ,0,0,0
+858,URY,Uruguay,South America,Soybeans,2016,"$497,652 ",0,0,0
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2016,"$587,745 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2016,"$5,598,233 ",0,0,-14%
+882,WSM,Samoa,Oceania,Soybeans,2016,$222 ,0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2016,"$750,492 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2016,"$162,361 ",0,0,0
+899,,All Countries,Other,Soybeans,2016,"$899,338,706 ",0,0,0
+4,AFG,Afghanistan,South Asia,Soybeans,2017,"$3,827 ",0,0,0
+8,ALB,Albania,Europe,Soybeans,2017,"$137,013 ",0,0,0
+12,DZA,Algeria,Middle East and North Africa,Soybeans,2017,"$10,457,567 ",0,0,0
+16,ASM,American Samoa,Oceania,Soybeans,2017,$235 ,0,0,0
+20,AND,Andorra,Europe,Soybeans,2017,$0 ,0,0,0
+24,AGO,Angola,Sub-Saharan Africa,Soybeans,2017,"$473,817 ",0,0,0
+28,ATG,Antigua and Barbuda,Caribbean and Central America,Soybeans,2017,"$5,874 ",0,0,0
+31,AZE,Azerbaijan,Central and Northern Asia,Soybeans,2017,"$136,078 ",0,0,0
+32,ARG,Argentina,South America,Soybeans,2017,"$336,907 ",0,0,0
+36,AUS,Australia,Oceania,Soybeans,2017,"$2,832,781 ",0,0,0
+40,AUT,Austria,Europe,Soybeans,2017,"$2,544,013 ",0,0,0
+44,BHS,Bahamas,Caribbean and Central America,Soybeans,2017,"$30,600 ",0,0,0
+48,BHR,Bahrain,Middle East and North Africa,Soybeans,2017,"$79,976 ",0,0,0
+50,BGD,Bangladesh,South Asia,Soybeans,2017,"$14,114,927 ",0,0,17%
+51,ARM,Armenia,Central and Northern Asia,Soybeans,2017,"$117,114 ",0,0,0
+52,BRB,Barbados,Caribbean and Central America,Soybeans,2017,"$118,297 ",0,0,0
+56,BEL,Belgium,Europe,Soybeans,2017,"$7,727,090 ",0,0,0
+60,BMU,Bermuda,Caribbean and Central America,Soybeans,2017,"$3,865 ",0,0,0
+64,BTN,Bhutan,South Asia,Soybeans,2017,"$1,343 ",0,0,0
+68,BOL,Bolivia,South America,Soybeans,2017,"$127,896 ",0,0,0
+70,BIH,Bosnia Herzegovina,Europe,Soybeans,2017,"$486,473 ",0,0,0
+72,BWA,Botswana,Sub-Saharan Africa,Soybeans,2017,"$146,256 ",0,0,0
+76,BRA,Brazil,South America,Soybeans,2017,"$1,308,319 ",0,0,0
+84,BLZ,Belize,Caribbean and Central America,Soybeans,2017,"$113,764 ",0,0,0
+90,SLB,Solomon Isds,Oceania,Soybeans,2017,"$7,598 ",0,0,0
+92,VGB,British Virgin Isds,Caribbean and Central America,Soybeans,2017,$522 ,0,0,0
+96,BRN,Brunei Darussalam,Southeast Asia,Soybeans,2017,"$79,223 ",0,0,0
+100,BGR,Bulgaria,Europe,Soybeans,2017,"$826,115 ",0,0,0
+104,MMR,Myanmar,Southeast Asia,Soybeans,2017,"$1,353,603 ",0,0,0
+108,BDI,Burundi,Sub-Saharan Africa,Soybeans,2017,$404 ,0,0,0
+112,BLR,Belarus,Central and Northern Asia,Soybeans,2017,"$1,537,000 ",0,0,0
+116,KHM,Cambodia,Southeast Asia,Soybeans,2017,"$450,076 ",0,0,0
+120,CMR,Cameroon,Sub-Saharan Africa,Soybeans,2017,"$257,500 ",0,0,0
+124,CAN,Canada,North America,Soybeans,2017,"$5,144,558 ",0,0,0
+132,CPV,Cabo Verde,Sub-Saharan Africa,Soybeans,2017,"$102,241 ",0,0,0
+136,CYM,Cayman Isds,Caribbean and Central America,Soybeans,2017,"$2,344 ",0,0,0
+140,CAF,Central African Rep.,Sub-Saharan Africa,Soybeans,2017,$301 ,0,0,0
+144,LKA,Sri Lanka,South Asia,Soybeans,2017,"$1,032,295 ",0,0,0
+148,TCD,Chad,Sub-Saharan Africa,Soybeans,2017,$222 ,0,0,0
+152,CHL,Chile,South America,Soybeans,2017,"$3,725,431 ",0,0,0
+156,CHN,China,China,Soybeans,2017,"$336,035,735 ",82000465.35,74%,0
+162,CXR,Christmas Isds,Oceania,Soybeans,2017,$0 ,0,0,0
+170,COL,Colombia,South America,Soybeans,2017,"$9,820,411 ",0,0,0
+174,COM,Comoros,Sub-Saharan Africa,Soybeans,2017,$330 ,0,0,0
+178,COG,"Congo, Rep.",Sub-Saharan Africa,Soybeans,2017,"$61,756 ",0,0,0
+180,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,Soybeans,2017,"$38,042 ",0,0,0
+184,COK,Cook Isds,Oceania,Soybeans,2017,$216 ,0,0,0
+188,CRI,Costa Rica,Caribbean and Central America,Soybeans,2017,"$1,426,421 ",0,0,0
+191,HRV,Croatia,Europe,Soybeans,2017,"$811,351 ",0,0,0
+192,CUB,Cuba,Caribbean and Central America,Soybeans,2017,"$2,414,627 ",0,0,0
+196,CYP,Cyprus,Europe,Soybeans,2017,"$437,375 ",0,0,0
+203,CZE,Czech Rep.,Europe,Soybeans,2017,"$1,612,155 ",0,0,0
+204,BEN,Benin,Sub-Saharan Africa,Soybeans,2017,"$1,095 ",0,0,0
+208,DNK,Denmark,Europe,Soybeans,2017,"$7,009,358 ",0,0,0
+212,DMA,Dominica,Caribbean and Central America,Soybeans,2017,"$2,402 ",0,0,0
+214,DOM,Dominican Rep.,Caribbean and Central America,Soybeans,2017,"$2,993,580 ",0,0,0
+218,ECU,Ecuador,South America,Soybeans,2017,"$4,482,641 ",0,0,0
+222,SLV,El Salvador,Caribbean and Central America,Soybeans,2017,"$901,483 ",0,0,0
+226,GNQ,Equatorial Guinea,Sub-Saharan Africa,Soybeans,2017,"$15,615 ",0,0,0
+231,ETH,Ethiopia,Sub-Saharan Africa,Soybeans,2017,"$143,239 ",0,0,0
+232,ERI,Eritrea,Sub-Saharan Africa,Soybeans,2017,"$36,465 ",0,0,0
+233,EST,Estonia,Europe,Soybeans,2017,"$138,581 ",0,0,0
+234,FRO,Faeroe Isds,Europe,Soybeans,2017,"$25,462 ",0,0,0
+238,FLK,Falkland Isds (Malvinas),South America,Soybeans,2017,$45 ,0,0,0
+242,FJI,Fiji,Oceania,Soybeans,2017,"$133,825 ",0,0,0
+246,FIN,Finland,Europe,Soybeans,2017,"$573,682 ",0,0,0
+251,FRA,France,Europe,Soybeans,2017,"$17,440,493 ",0,0,0
+258,PYF,French Polynesia,Oceania,Soybeans,2017,"$14,399 ",0,0,0
+262,DJI,Djibouti,Sub-Saharan Africa,Soybeans,2017,"$10,383 ",0,0,0
+266,GAB,Gabon,Sub-Saharan Africa,Soybeans,2017,"$25,361 ",0,0,0
+268,GEO,Georgia,Central and Northern Asia,Soybeans,2017,"$171,550 ",0,0,0
+270,GMB,Gambia,Sub-Saharan Africa,Soybeans,2017,"$8,584 ",0,0,0
+275,PSE,State of Palestine,Middle East and North Africa,Soybeans,2017,"$138,710 ",0,0,0
+276,DEU,Germany,Europe,Soybeans,2017,"$30,299,399 ",7297914.024,7%,0
+288,GHA,Ghana,Sub-Saharan Africa,Soybeans,2017,"$164,566 ",0,0,0
+292,GIB,Gibraltar,Europe,Soybeans,2017,"$5,421 ",0,0,0
+296,KIR,Kiribati,Oceania,Soybeans,2017,$218 ,0,0,0
+300,GRC,Greece,Europe,Soybeans,2017,"$2,507,151 ",0,0,0
+304,GRL,Greenland,North America,Soybeans,2017,$181 ,0,0,0
+308,GRD,Grenada,Caribbean and Central America,Soybeans,2017,"$16,938 ",0,0,0
+316,GUM,Guam,Oceania,Soybeans,2017,$621 ,0,0,0
+320,GTM,Guatemala,Caribbean and Central America,Soybeans,2017,"$2,257,915 ",0,0,0
+324,GIN,Guinea,Sub-Saharan Africa,Soybeans,2017,"$26,118 ",0,0,0
+328,GUY,Guyana,South America,Soybeans,2017,"$254,154 ",0,0,0
+332,HTI,Haiti,Caribbean and Central America,Soybeans,2017,"$60,138 ",0,0,0
+340,HND,Honduras,Caribbean and Central America,Soybeans,2017,"$935,414 ",0,0,0
+344,HKG,"China, Hong Kong SAR",China,Soybeans,2017,"$646,978 ",0,0,0
+348,HUN,Hungary,Europe,Soybeans,2017,"$2,453,795 ",0,0,0
+352,ISL,Iceland,Europe,Soybeans,2017,"$117,464 ",0,0,0
+360,IDN,Indonesia,Southeast Asia,Soybeans,2017,"$26,996,230 ",6266980.481,6%,0
+364,IRN,Iran,Middle East and North Africa,Soybeans,2017,"$14,407,689 ",0,0,-5%
+368,IRQ,Iraq,Middle East and North Africa,Soybeans,2017,"$517,806 ",0,0,0
+372,IRL,Ireland,Europe,Soybeans,2017,"$3,094,151 ",0,0,0
+376,ISR,Israel,Middle East and North Africa,Soybeans,2017,"$3,118,570 ",0,0,0
+381,ITA,Italy,Europe,Soybeans,2017,"$12,894,554 ",0,0,-4%
+384,CIV,Cote d'Ivoire,Sub-Saharan Africa,Soybeans,2017,"$300,763 ",0,0,0
+388,JAM,Jamaica,Caribbean and Central America,Soybeans,2017,"$602,174 ",0,0,0
+392,JPN,Japan,East Asia excluding China,Soybeans,2017,"$24,418,116 ",0,0,0
+398,KAZ,Kazakhstan,Central and Northern Asia,Soybeans,2017,"$119,221 ",0,0,0
+400,JOR,Jordan,Middle East and North Africa,Soybeans,2017,"$1,732,700 ",0,0,0
+404,KEN,Kenya,Sub-Saharan Africa,Soybeans,2017,"$200,871 ",0,0,0
+408,PRK,"Korea, Dem. Rep.",East Asia excluding China,Soybeans,2017,"$1,234,908 ",0,0,0
+410,KOR,"Korea, Rep.",East Asia excluding China,Soybeans,2017,"$16,342,988 ",0,0,0
+414,KWT,Kuwait,Middle East and North Africa,Soybeans,2017,"$525,319 ",0,0,0
+417,KGZ,Kyrgyzstan,Central and Northern Asia,Soybeans,2017,"$16,938 ",0,0,0
+418,LAO,Lao PDR,Southeast Asia,Soybeans,2017,"$34,385 ",0,0,0
+422,LBN,Lebanon,Middle East and North Africa,Soybeans,2017,"$1,207,894 ",0,0,0
+426,LSO,Lesotho,Sub-Saharan Africa,Soybeans,2017,"$32,693 ",0,0,0
+428,LVA,Latvia,Europe,Soybeans,2017,"$1,010,294 ",0,0,0
+430,LBR,Liberia,Sub-Saharan Africa,Soybeans,2017,$122 ,0,0,0
+434,LBY,Libya,Middle East and North Africa,Soybeans,2017,"$974,343 ",0,0,0
+440,LTU,Lithuania,Europe,Soybeans,2017,"$693,632 ",0,0,0
+442,LUX,Luxembourg,Europe,Soybeans,2017,"$106,843 ",0,0,0
+446,MAC,"China, Macao SAR",China,Soybeans,2017,"$59,781 ",0,0,0
+450,MDG,Madagascar,Sub-Saharan Africa,Soybeans,2017,"$391,994 ",0,0,0
+454,MWI,Malawi,Sub-Saharan Africa,Soybeans,2017,"$114,627 ",0,0,0
+458,MYS,Malaysia,Southeast Asia,Soybeans,2017,"$9,708,750 ",0,0,0
+462,MDV,Maldives,South Asia,Soybeans,2017,"$6,676 ",0,0,0
+466,MLI,Mali,Sub-Saharan Africa,Soybeans,2017,$922 ,0,0,0
+470,MLT,Malta,Europe,Soybeans,2017,"$121,314 ",0,0,0
+478,MRT,Mauritania,Sub-Saharan Africa,Soybeans,2017,"$89,223 ",0,0,0
+480,MUS,Mauritius,Sub-Saharan Africa,Soybeans,2017,"$401,041 ",0,0,0
+484,MEX,Mexico,North America,Soybeans,2017,"$25,760,682 ",6152356.672,6%,0
+490,,"Other Asia, nes",East Asia excluding China,Soybeans,2017,"$11,102,218 ",0,0,0
+496,MNG,Mongolia,Central and Northern Asia,Soybeans,2017,"$65,326 ",0,0,0
+498,MDA,Moldova,Europe,Soybeans,2017,"$130,658 ",0,0,0
+499,MNE,Montenegro,Europe,Soybeans,2017,"$3,642 ",0,0,0
+504,MAR,Morocco,Middle East and North Africa,Soybeans,2017,"$5,596,778 ",0,0,0
+508,MOZ,Mozambique,Sub-Saharan Africa,Soybeans,2017,"$481,435 ",0,0,0
+512,OMN,Oman,Middle East and North Africa,Soybeans,2017,"$648,938 ",0,0,0
+516,NAM,Namibia,Sub-Saharan Africa,Soybeans,2017,"$80,649 ",0,0,0
+520,NRU,Nauru,Oceania,Soybeans,2017,$18 ,0,0,0
+524,NPL,Nepal,South Asia,Soybeans,2017,"$1,488,881 ",0,0,0
+527,,"Oceania, nes",Oceania,Soybeans,2017,$61 ,0,0,0
+528,NLD,Netherlands,Europe,Soybeans,2017,"$34,653,448 ",8343133.997,8%,0
+531,CUW,Curacao,Caribbean and Central America,Soybeans,2017,"$7,486 ",0,0,0
+533,ABW,Aruba,Caribbean and Central America,Soybeans,2017,"$4,207 ",0,0,0
+534,SXM,Sint Maarten (Dutch part),Caribbean and Central America,Soybeans,2017,$227 ,0,0,0
+535,BES,Bonaire,Caribbean and Central America,Soybeans,2017,$0 ,0,0,0
+540,NCL,New Caledonia,Oceania,Soybeans,2017,"$17,314 ",0,0,0
+548,VUT,Vanuatu,Oceania,Soybeans,2017,$201 ,0,0,0
+554,NZL,New Zealand,Oceania,Soybeans,2017,"$815,246 ",0,0,0
+558,NIC,Nicaragua,Caribbean and Central America,Soybeans,2017,"$928,265 ",0,0,0
+562,NER,Niger,Sub-Saharan Africa,Soybeans,2017,"$4,545 ",0,0,0
+566,NGA,Nigeria,Sub-Saharan Africa,Soybeans,2017,"$1,052,732 ",0,0,0
+568,,"Other Europe, nes",Europe,Soybeans,2017,$199 ,0,0,0
+570,NIU,Niue,Oceania,Soybeans,2017,$58 ,0,0,0
+574,NFK,Norfolk Isds,Oceania,Soybeans,2017,$0 ,0,0,0
+577,,"Other Africa, nes",Sub-Saharan Africa,Soybeans,2017,$0 ,0,0,0
+579,NOR,Norway,Europe,Soybeans,2017,"$3,435,310 ",0,0,0
+580,MNP,N. Mariana Isds,Oceania,Soybeans,2017,$627 ,0,0,0
+581,UMI,United States Minor Outlying Isds,Oceania,Soybeans,2017,$0 ,0,0,0
+583,FSM,Micronesia,Oceania,Soybeans,2017,$764 ,0,0,0
+584,MHL,Marshall Isds,Oceania,Soybeans,2017,$48 ,0,0,0
+585,PLW,Palau,Oceania,Soybeans,2017,"$1,257 ",0,0,0
+586,PAK,Pakistan,South Asia,Soybeans,2017,"$8,065,210 ",0,0,36%
+591,PAN,Panama,Caribbean and Central America,Soybeans,2017,"$1,134,642 ",0,0,0
+598,PNG,Papua New Guinea,Oceania,Soybeans,2017,"$136,965 ",0,0,0
+600,PRY,Paraguay,South America,Soybeans,2017,"$117,418 ",0,0,0
+604,PER,Peru,South America,Soybeans,2017,"$8,451,685 ",0,0,0
+608,PHL,Philippines,Southeast Asia,Soybeans,2017,"$8,668,754 ",0,0,0
+616,POL,Poland,Europe,Soybeans,2017,"$10,047,119 ",0,0,0
+620,PRT,Portugal,Europe,Soybeans,2017,"$4,343,855 ",0,0,-6.30%
+624,GNB,Guinea-Bissau,Sub-Saharan Africa,Soybeans,2017,"$16,124 ",0,0,0
+626,TLS,Timor-Leste,Southeast Asia,Soybeans,2017,"$2,164 ",0,0,0
+634,QAT,Qatar,Middle East and North Africa,Soybeans,2017,"$44,991 ",0,0,0
+642,ROU,Romania,Europe,Soybeans,2017,"$2,919,086 ",0,0,0
+643,RUS,Russia,Central and Northern Asia,Soybeans,2017,"$11,294,030 ",0,0,0
+646,RWA,Rwanda,Sub-Saharan Africa,Soybeans,2017,"$16,920 ",0,0,0
+659,KNA,Saint Kitts and Nevis,Caribbean and Central America,Soybeans,2017,"$2,391 ",0,0,0
+660,AIA,Anguilla,Caribbean and Central America,Soybeans,2017,$9 ,0,0,0
+662,LCA,Saint Lucia,Caribbean and Central America,Soybeans,2017,"$17,286 ",0,0,0
+666,SPM,Saint Pierre and Miquelon,North America,Soybeans,2017,$10 ,0,0,0
+670,VCT,Saint Vincent and the Grenadines,Caribbean and Central America,Soybeans,2017,"$29,023 ",0,0,0
+678,STP,Sao Tome and Principe,Sub-Saharan Africa,Soybeans,2017,"$28,706 ",0,0,0
+682,SAU,Saudi Arabia,Middle East and North Africa,Soybeans,2017,"$5,885,831 ",0,0,0
+686,SEN,Senegal,Sub-Saharan Africa,Soybeans,2017,"$438,699 ",0,0,0
+688,SRB,Serbia,Europe,Soybeans,2017,"$501,481 ",0,0,0
+690,SYC,Seychelles,Sub-Saharan Africa,Soybeans,2017,"$7,978 ",0,0,0
+694,SLE,Sierra Leone,Sub-Saharan Africa,Soybeans,2017,"$5,929 ",0,0,0
+699,IND,India,South Asia,Soybeans,2017,"$26,860,782 ",0,0,17%
+702,SGP,Singapore,Southeast Asia,Soybeans,2017,"$593,778 ",0,0,0
+703,SVK,Slovakia,Europe,Soybeans,2017,"$685,165 ",0,0,0
+704,VNM,Vietnam,Southeast Asia,Soybeans,2017,"$26,229,909 ",0,0,12%
+705,SVN,Slovenia,Europe,Soybeans,2017,"$2,525,264 ",0,0,0
+706,SOM,Somalia,Sub-Saharan Africa,Soybeans,2017,$610 ,0,0,0
+710,ZAF,South Africa,Sub-Saharan Africa,Soybeans,2017,"$3,762,208 ",0,0,-9.40%
+716,ZWE,Zimbabwe,Sub-Saharan Africa,Soybeans,2017,"$1,243,749 ",0,0,0
+724,ESP,Spain,Europe,Soybeans,2017,"$23,883,237 ",0,0,0
+728,SSD,South Sudan,Sub-Saharan Africa,Soybeans,2017,"$1,429 ",0,0,0
+729,SDN,Sudan,Sub-Saharan Africa,Soybeans,2017,"$21,982 ",0,0,0
+740,SUR,Suriname,South America,Soybeans,2017,"$138,500 ",0,0,0
+748,SWZ,Swaziland,Sub-Saharan Africa,Soybeans,2017,"$114,721 ",0,0,0
+752,SWE,Sweden,Europe,Soybeans,2017,"$1,663,052 ",0,0,0
+757,CHE,Switzerland,Europe,Soybeans,2017,"$1,763,872 ",0,0,0
+760,SYR,Syria,Middle East and North Africa,Soybeans,2017,"$744,987 ",0,0,-29%
+762,TJK,Tajikistan,Central and Northern Asia,Soybeans,2017,"$79,211 ",0,0,0
+764,THA,Thailand,Southeast Asia,Soybeans,2017,"$23,509,361 ",0,0,0
+768,TGO,Togo,Sub-Saharan Africa,Soybeans,2017,$622 ,0,0,0
+776,TON,Tonga,Oceania,Soybeans,2017,$38 ,0,0,0
+780,TTO,Trinidad and Tobago,Caribbean and Central America,Soybeans,2017,"$432,936 ",0,0,0
+784,ARE,United Arab Emirates,Middle East and North Africa,Soybeans,2017,"$1,421,122 ",0,0,0
+788,TUN,Tunisia,Middle East and North Africa,Soybeans,2017,"$3,503,790 ",0,0,0
+792,TUR,Turkey,Europe,Soybeans,2017,"$11,543,191 ",0,0,0
+795,TKM,Turkmenistan,Central and Northern Asia,Soybeans,2017,"$8,281 ",0,0,0
+796,TCA,Turks and Caicos Isds,Caribbean and Central America,Soybeans,2017,"$30,586 ",0,0,0
+798,TUV,Tuvalu,Oceania,Soybeans,2017,$315 ,0,0,0
+800,UGA,Uganda,Sub-Saharan Africa,Soybeans,2017,"$5,910 ",0,0,0
+804,UKR,Ukraine,Central and Northern Asia,Soybeans,2017,"$117,151 ",0,0,0
+807,MKD,"Macedonia, FYR",Europe,Soybeans,2017,"$156,106 ",0,0,0
+818,EGY,Egypt,Middle East and North Africa,Soybeans,2017,"$17,103,745 ",0,0,0
+826,GBR,United Kingdom,Europe,Soybeans,2017,"$13,234,852 ",0,0,0
+834,TZA,Tanzania,Sub-Saharan Africa,Soybeans,2017,"$124,780 ",0,0,0
+837,,Bunkers,Other,Soybeans,2017,$777 ,0,0,0
+838,,Free Zones,Other,Soybeans,2017,"$7,305,133 ",0,0,0
+842,USA,USA,North America,Soybeans,2017,"$8,036,705 ",0,0,18%
+854,BFA,Burkina Faso,Sub-Saharan Africa,Soybeans,2017,"$6,604 ",0,0,0
+858,URY,Uruguay,South America,Soybeans,2017,"$483,936 ",0,0,0
+860,UZB,Uzbekistan,Central and Northern Asia,Soybeans,2017,"$989,235 ",0,0,0
+862,VEN,Venezuela,South America,Soybeans,2017,"$7,825,391 ",0,0,0
+882,WSM,Samoa,Oceania,Soybeans,2017,"$90,945 ",0,0,0
+887,YEM,Yemen,Middle East and North Africa,Soybeans,2017,"$425,116 ",0,0,0
+894,ZMB,Zambia,Sub-Saharan Africa,Soybeans,2017,"$186,301 ",0,0,0
+899,,All Countries,Other,Soybeans,2017,"$939,285,752 ",0,0,0

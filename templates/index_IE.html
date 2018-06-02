@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <meta http-equiv="X-UA-Compatible" content="ie=edge">
+                <!--Plotly.js-->
+                <link rel="stylesheet" media="screen" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+                <script src="https://code.jquery.com/jquery.js"></script>
+                <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+                <script src="https://d3js.org/d3.v3.min.js"></script>
+                <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>   
+                <script src="../static/js/indexE.js" type="text/javascript"></script>
+                <script src="../static/js/indexI.js" type="text/javascript"></script>             
+                </head>
+    <body>
+        <nav class="navbar navbar-default" style="background-color: #8FBC8F">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <div class="col-md-1"></div>
+                    <div class="col-md-1"></div>
+                    <div class="col-md-1"></div>
+                    <div class="col-md-1"></div>
+                
+                    <a class="navbar-brand" href="/" style="color: white; background-color: #2F4F4F; font-size: 20pt;">
+                        <span class="nav-color">SOYBEAN</span>
+                    </a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="/index_IE">EXPORT vs. IMPORT</a></li>
+                        <!-- <li><a href="">IMPORT</a></li> -->
+                        <li><a href="/financial">FINANCIAL ANALYSIS</a></li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+      <div class="tab">
+          <button onclick="exporter()">Exporter</button>
+          <button onclick="importer()">Importer</button>
+      </div>
+      <div id="Exporter" class="tabcontent">
+        <div class="container">
+            <div class="showcase__section" id="bubble">
+                <div class="spacer --small"></div>
+                
+                  <div class="bubbleplot" data-num="0">
+                      <div class="control-row">
+                          Country: <select class="countrydata"><option label="All Countries"></option></select>
+                          Year: <select class="yeardata"></select>                        
+                        </div>
+                      <div class="col-md-12"> 
+                          <div class="plot2" id="plotdiv2"></div>
+                      </div>
+                    <div class="row"> 
+                      <div class="col-md-4"> 
+                        <div class="plot1" id="plotdiv1"></div>
+                      </div>
+                    <div class ="col-md-4">
+                      <div class="row">
+                        <div class="plot" id="plotdiv"></div>                      
+                      </div> 
+                    </div>
+                        <div class="col-md-4">
+                            <div class="plot3" id="plotdiv3"></div>
+                          </div>                     
+                  </div>                  
+                </div>
+            </div>
+        </div>
+
+      </div>
+      
+    </body>
+</html>

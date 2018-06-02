@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Financial Plot</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- echarts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/4.1.0/echarts-en.common.js"></script>
+    <script src = "https://cdnjs.cloudflare.com/ajax/libs/echarts/4.1.0/echarts-en.js"></script>
+    <style>
+        a{
+            color:black;
+
+        }
+        .bold {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-default" style="background-color: #8FBC8F">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="col-md-1"></div>
+                <div class="col-md-1"></div>
+                <div class="col-md-1"></div>
+                <div class="col-md-1"></div>
+            
+                <a class="navbar-brand" href="/" style="color: white; background-color: #2F4F4F; font-size: 20pt;">
+                    <span class="nav-color">SOYBEAN</span>
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/index_IE">EXPORT vs. IMPORT</a></li>
+                    <!-- <li><a href="">IMPORT</a></li> -->
+                    <li><a href="/financial">FINANCIAL ANALYSIS</a></li>
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.3/d3.min.js"></script>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div id="plot" style="width: auto;height:440px;"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div id="plot1" style="width: auto;height:440px;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <img src="static/newspaper.png" height="20px" width ="auto">   <b style="font-size: 12pt">US Soybeans News</b><hr>
+                       
+                        <div id="articles"></div>
+                        <div class='display'>Displaying results <span class="bold"><span id="displayNum1"></span> - <span id="displayNum2"></span></span> of <span id="displayNum3" class="bold"></span> articles.</div>
+                        <nav aria-label="...">
+                            <ul class="pager">
+                                <li class="previous" id="previous"><a href="">Previous</a></li>
+                                <li class="next" id = "next"><a href="">Next 5 Results</a></li>
+                                <!-- <li class="end" id="end"><a href="">Last page</a></li> -->
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div id="main" style="width:auto;height:600px;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+   <script src="../static/js/articles.js"></script>
+    <script src="../static/js/SOYBETF.js"></script>
+    <script src="../static/js/SOY_prices.js"></script>
+    <script src="../static/js/SOYB_USAG.js"></script>
+
+</body>
+</html>
